@@ -13,13 +13,9 @@ Welcome to **M1862.000400 Topics in Cartography and Cartography Education: Maps 
 -   Instructor: Sang-Il Lee
 
     -   Professor, Department of Geography Education, Seoul National University
-
     -   Homepage: <https://sangillee.snu.ac.kr/>
-
-    -   Email: [si_lee\@snu.ac.kr](mailto: si_lee@snu.ac.kr)
-
+    -   Email: [si_lee\@snu.ac.kr](mailto:%20si_lee@snu.ac.kr)
     -   Phone: 02-880-9028
-
     -   Office: 10-319
 
 -   TA
