@@ -1,0 +1,5 @@
+---
+title: "Waldseemüller"
+date: last-modified
+number-sections: false
+---

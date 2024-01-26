@@ -1,11 +1,31 @@
 ---
-title: "2024_1_History_Cartography"
+title: "Introduction"
+date: last-modified
+number-sections: false
 ---
 
-This is a Quarto website.
+## Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to **M1862.000400 Topics in Cartography and Cartography Education: Maps and Civilization** (지도학 및 지도교육 특강: 지도와 문명).
 
-```{r}
-1 + 1
-```
+## Basic Info
+
+-   Instructor: Sang-Il Lee
+
+    -   Professor, Department of Geography Education, Seoul National University
+
+    -   Homepage: <https://sangillee.snu.ac.kr/>
+
+    -   Email: [si_lee\@snu.ac.kr](mailto: si_lee@snu.ac.kr)
+
+    -   Phone: 02-880-9028
+
+    -   Office: 10-319
+
+-   TA
+
+    -   TBD
+
+-   Place: TBD
+
+-   Time: 18:00 – 20:50, Thursday

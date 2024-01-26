@@ -3,18 +3,44 @@ project:
   output-dir: docs
 
 website:
-  title: "2024_1_History_Cartography"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "2024/1 History of Cartography"
+  sidebar: 
+    contents: 
+      - section: "Class Overview"
+        contents: 
+          - index.qmd
+          - syllabus.qmd
+      - section: "10 Maps"
+        contents: 
+          - outline.qmd
+          - eratosthenes.qmd
+          - ptolemaios.qmd
+          - hereford.qmd
+          - framauro.qmd
+          - idrisi.qmd
+          - kangnido.qmd
+          - waldseemuller.qmd
+          - mercator.qmd
+          - colomb.qmd
+          - peters.qmd
+      - section: "Epilogue"    
+
+  back-to-top-navigation: true
+  page-navigation: true
+  page-footer: 
+    left: "Copyright 2024, Sang-Il Lee"
+    border: true
+  repo-url: https://github.com/sangillee66/sangillee66.github.io
+  repo-actions: [issue]
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
+
+execute:
+  freeze: auto
 
 editor: visual
 
