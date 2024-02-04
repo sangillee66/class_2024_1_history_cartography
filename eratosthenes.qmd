@@ -5,7 +5,7 @@ number-sections: false
 bibliography: references.bib
 ---
 
-## 개요
+## Synopsis
 
 ## References
 
