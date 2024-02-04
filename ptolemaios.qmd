@@ -11,6 +11,10 @@ bibliography: references.bib
 
 -   **Aujac, Germaine**. 2016. “[The “Revolution” of Ptolemy](papers/aujac_2016.pdf).” In *Brill's Companion to Ancient Geography*, edited by Serena Bianchetti, Michele Cataudella, and Hans-Joachim Gehrke, 311–34. Leiden, The Netherlands: BRILL. <https://doi.org/10.1163/9789004284715_019>.
 
+-   **Berg, Thomas Reinertsen**. 2018. *Theater of the World: The Maps That Made History*. New York: Little, Brown; Company. Like Frogs about a Pond. 29-61.
+
+-   Brotton, Jerry. 2014. *Great Maps: The World’s Masterpieces Explored and Explained*. New York: Publishing. Ptolemy's World Map, 24-27.
+
 -   Bunbury, E. H. 1959. *A History of Ancient Geography Among the Greeks and Romans from the Earliest Ages till the Fall of the Roman Empire*. Vol. 1. New York: Dover Publications.
 
 -   Bunbury, E. H. 1959. *A History of Ancient Geography Among the Greeks and Romans from the Earliest Ages till the Fall of the Roman Empire*. Vol. 2. New York: Dover Publications.

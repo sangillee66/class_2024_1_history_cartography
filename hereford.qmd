@@ -11,7 +11,7 @@ bibliography: references.bib
 
 -   Bevan, William Latham, and Henry Wright Phillott. 1873. *Mediæval Geography: An Essay in Illustration of the Hereford Mappa Mundi*. E. Stanford.
 
--   Brotton, Jerry. 2014. *Great Maps: The World’s Masterpieces Explored and Explained*. New York: Publishing.
+-   Brotton, Jerry. 2014. *Great Maps: The World’s Masterpieces Explored and Explained*. New York: Publishing. Hereford Mappa Mundi. 56-59.
 
 -   De Wesselow, Thomas. 2013. “[Locating the Hereford *Mappamundi*](papers/de_wesselow_2013.pdf).” *Imago Mundi* 65 (2): 180–206. <https://doi.org/10.1080/03085694.2013.784555>.
 
@@ -20,6 +20,8 @@ bibliography: references.bib
 -   Kline, Naomi Reed. 2003. *Maps of Medieval Thought: The Hereford Paradigm*. Woodbridge, Suffolk: Boydell Press.
 
 -   Kupfer, Marcia Ann. 2016. *Art and Optics in the Hereford Map: An English Mappa Mundi, C. 1300*. New Haven: Yale University Press.
+
+-   **MyOldMaps**, [#226 The Hereford Mappamundi](file:///C:/Users/User/Zotero/storage/N4WA7ZC6/226-the-hereford-mappamundi.html)
 
 -   **김명남 옮김**. 2015. [지도 위의 인문학](https://www.yes24.com/Product/Goods/23544580): 지도 위에 그려진 인류 문명의 유쾌한 탐험, 파주: 다산북스. (Garfield, Simon. 2013. [*On the Map: A Mind-expanding Exploration of the Way the World Looks*](https://www.amazon.com/Map-Mind-Expanding-Exploration-Notable-Adults/dp/1592407803/ref=sr_1_1?crid=3BJW1GMAX4YZ5&dib=eyJ2IjoiMSJ9.lQGK5iKst9YJ8yMba6Ck0TRUHjQNFMzmbWXLYoV6jo4Jk4J7_nKqqf7F2C6id3nHQltlEDYPQ39oLfK4oLqViqP1LTrmA66wA6jVbBRQOuQGWWx0Oxc72aDNdtS3WoQYNFIXZ-uyCrWncYV83Q2QjQ.FdwJlG7VbG8FpX75S9mLb0ynmr8fBli71VRD27DKD9U&dib_tag=se&keywords=On+the+Map%3A+A+Mind-expanding&qid=1705823976&s=books&sprefix=on+the+map+a+mind-expanding%2Cstripbooks-intl-ship%2C227&sr=1-1), New York, N.Y.: Gotham Books.) 제2장 세계를 팔아넘긴 간 큰 남자들. 51-78.
 
@@ -36,3 +38,7 @@ bibliography: references.bib
 -   [Medieval world map, Mappa Mundi, what does it show?](https://www.youtube.com/watch?v=n4uHbTtWbe8)
 
     -   Modern History TV
+
+-   [The Hereford World Map: Mappa Mundi \| A limited edition from The Folio Society](https://www.youtube.com/watch?v=uO-IJUP_UBQ)
+
+    -   The Folio Society

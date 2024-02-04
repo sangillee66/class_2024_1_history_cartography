@@ -2,4 +2,45 @@
 title: "Fra Mauro"
 date: last-modified
 number-sections: false
+bibliography: references.bib
 ---
+
+## Synopsis
+
+## References
+
+-   Brotton, Jerry. 2014. *Great Maps: The World’s Masterpieces Explored and Explained*. New York: Publishing. Fra Mauro's World Map. 72-75.
+
+-   Cattaneo, Angelo. 2011. *Fra Mauro’s Mappa Mundi and Fifteenth-Century Venice*. Isd.
+
+-   Davies, Surekha. 2012. “[The Wondrous East in the Renaissance Geographical Imagination: Marco Polo, Fra Mauro and Giovanni Battista Ramusio](papers/davies_2012.pdf).” *History and Anthropology* 23 (2): 215–34. <https://doi.org/10.1080/02757206.2012.675803>.
+
+-   Falchetta, Piero. 2006. *Fra Mauro’s World Map: With a Commentary and Translations of the Inscriptions*. Brepols.
+
+-   Falchetta, Piero. 2013. *Fra’ Mauro’s World Map: A History*. Imago.
+
+-   Harvey, P. D. A. 2015. “[Fra’ Mauro’s World Map: A History](papers/harvey_2015.pdf).” *Imago Mundi* 67 (1): 106–7. <https://doi.org/10.1080/03085694.2015.974962>.
+
+-   Liu, Danyun, Khoi N Vu, and Andrea Nanetti. 2023. “[Information Visualisation Tools to Explore Fra Mauro’s World Map (Dated 1460 CE)](papers/liu_et_al_2023.pdf).” *E-Perimetron* 18 (2): 73–87.
+
+-   Mauntel, Christoph. 2018. “[Fra Mauro’s View on the Boring Question of Continents](papers/mauntel_2018.pdf).” *Journal of Medieval Art and Architecture* 6 (3): 54–77. <https://digital.kenyon.edu/perejournal/vol6/iss3/4>.
+
+-   Nanetti, Andrea, Angelo Cattaneo, Siew Ann Cheong, and Chin-Yew Lin. 2015. “[Maps as Knowledge Aggregators: From Renaissance Italy Fra Mauro to Web Search Engines](papers/nanetti_et_al_2015.pdf).” *The Cartographic Journal* 52 (2): 159–67. <https://doi.org/10.1080/00087041.2015.1119472>.
+
+-   Small, Meredith Francesca. 2023. *Here Begins the Dark Sea: Venice, a Medieval Monk, and the Creation of the Most Accurate Map of the World*. New York: Pegasus Books.
+
+-   **MyOldMaps**, [#249 Fra Mauro's Mappamundi](https://www.myoldmaps.com/late-medieval-maps-1300/249-fra-mauros-mappamundi/)
+
+-   강은슬 옮김. 2008. [프라 마우로의 세계 지도](https://www.yes24.com/Product/Goods/3103896). 서울: 푸른길. (Cowan, James. 2007. [*A Mapmaker’s Dream: The Meditations of Fra Mauro, Cartographer to the Court of Venice*](https://www.google.co.kr/books/edition/A_Mapmaker_s_Dream/01bQ6f_FB0IC?hl=ko&gbpv=0). Shambhala Publications.)
+
+-   김명남 옮김. 2015. [지도 위의 인문학](https://www.yes24.com/Product/Goods/23544580): 지도 위에 그려진 인류 문명의 유쾌한 탐험, 파주: 다산북스. (Garfield, Simon. 2013. [*On the Map: A Mind-expanding Exploration of the Way the World Looks*](https://www.amazon.com/Map-Mind-Expanding-Exploration-Notable-Adults/dp/1592407803/ref=sr_1_1?crid=3BJW1GMAX4YZ5&dib=eyJ2IjoiMSJ9.lQGK5iKst9YJ8yMba6Ck0TRUHjQNFMzmbWXLYoV6jo4Jk4J7_nKqqf7F2C6id3nHQltlEDYPQ39oLfK4oLqViqP1LTrmA66wA6jVbBRQOuQGWWx0Oxc72aDNdtS3WoQYNFIXZ-uyCrWncYV83Q2QjQ.FdwJlG7VbG8FpX75S9mLb0ynmr8fBli71VRD27DKD9U&dib_tag=se&keywords=On+the+Map%3A+A+Mind-expanding&qid=1705823976&s=books&sprefix=on+the+map+a+mind-expanding%2Cstripbooks-intl-ship%2C227&sr=1-1), New York, N.Y.: Gotham Books.) 제4장 베네치아, 중국, 달을 여행하다. 95-109.
+
+## Video Materials
+
+-   [Fra Mauro's 'Map of the World' (c.1390-1459)](https://www.youtube.com/watch?v=NGcEzjV-kZU&t=1s)
+
+    -   National Library of Australia
+
+-   [La nuova illuminazione del Mappamondo del Fra Mauro. Biblioteca Nazionale Marciana di Venezia](https://www.youtube.com/watch?v=bjv9Gn3mjfA)
+
+    -   Romano Baratta
