@@ -2,4 +2,33 @@
 title: "Eratosthenes"
 date: last-modified
 number-sections: false
+bibliography: references.bib
 ---
+
+## 개요
+
+## References
+
+-   **Bianchetti, Serena.** 2016. “[The “Invention” of Geography: Eratosthenes of Cyrene.](papers/bianchetti_2016.pdf)” In, edited by Hans-Joachim Gehrke, Michele Cataudella, and Serena Bianchetti, 132–49. Leiden, The Netherlands: BRILL. <https://doi.org/10.1163/9789004284715_009>.
+
+-   Bunbury, E. H. 1959. *A History of Ancient Geography Among the Greeks and Romans from the Earliest Ages till the Fall of the Roman Empire*. Vol. 1. New York: Dover Publications.
+
+-   Bunbury, E. H. 1959. *A History of Ancient Geography Among the Greeks and Romans from the Earliest Ages till the Fall of the Roman Empire*. Vol. 2. New York: Dover Publications.
+
+-   **Irby, Georgia L.** 2012. “[Mapping the World: Greek Initiatives from Homer to Eratosthenes](papers/irby_2012.pdf).” *Ancient Perspectives: Maps and Their Place in Mesopotamia, Egypt, Greece, and Rome* 16: 81–107. 
+
+-   **MyOldMaps**, [#112 Eratosthenes](https://www.myoldmaps.com/maps-from-antiquity-6200-bc/112-eratosthenes/). (also see [#105](https://www.myoldmaps.com/maps-from-antiquity-6200-bc/105-homer/), [#106](https://www.myoldmaps.com/maps-from-antiquity-6200-bc/105-homer/106-ancient-greek-world/), [#107](https://www.myoldmaps.com/maps-from-antiquity-6200-bc/105-homer/106-ancient-greek-world/107-anaximander/), [#108](https://www.myoldmaps.com/maps-from-antiquity-6200-bc/108-hecataeus/), [#109](https://www.myoldmaps.com/maps-from-antiquity-6200-bc/109-herodotus/), [#111](https://www.myoldmaps.com/maps-from-antiquity-6200-bc/111-dicaearchus-of-messana/))
+
+-   **Roller, Duane W.** 2012. ed. *Eratosthenes’ Geography*. Princeton, N.J: Princeton University Press.
+
+-   **Roller, Duane W.** 2015. *Ancient Geography: The Discovery of the World in Classical Greece and Rome*. Bloomsbury Publishing. Chapter 6: Eratosthenes and the invention of the discipline of geography, 121-135.
+
+-   Shcheglov, Dmitry A. 2004. “[Ptolemy’s System of Seven Climata and Eratosthenes’ Geography.](papers/shcheglov_2004.pdf)” *Geographia Antiqua* 13: 21–37.
+
+-   Shcheglov, Dmitry A. 2006. “[Eratosthenes’ Parallel of Rhodes and the History of the System of Climata](papers/shcheglov_2006.pdf).” *Klio* 88 (2): 351–59. <https://doi.org/10.1524/klio.2006.88.2.351>.
+
+-   **Shcheglov, Dmitry A.** 2017. “[Eratosthenes’ Contribution to Ptolemy’s Map of the World](papers/shcheglov_2017.pdf).” *Imago Mundi* 69 (2): 159–75. <https://doi.org/10.1080/03085694.2017.1312112>.
+
+-   Thomson, James Oliver. 1965. *History of Ancient Geography*. Biblo & Tannen Publishers.
+
+-   유나영 옮김. 2021. [지도의 역사: 지도로 그려진 최초의 발자취부터 인공지능까지](https://www.yes24.com/Product/Goods/104227876). 서울: 소소의책. (Swanston, Malcolm, and Alexander Swanston. 2019. [*How to Draw a Map*](https://www.amazon.com/How-to-Draw-a-Map/dp/0008275793/ref=sr_1_2?crid=215Q9RNBMV48J&dib=eyJ2IjoiMSJ9.DnuLacSDTLpZaYAPmIRSfz7vy-o7UERC3fTszoV0jhEEr8FXT1cDbT--r7xxnZmYB4jZ9jM5FXcvOnYk7dr27Vdwek5pU12DGGcykFuM2X_j6nAY4mw-MTRjhnWhUhlFmwwhI1_wYiFLxTOKjNPgDir8_GI4bKClkI3i1X1VB7zrj-noPbUOtGDMQ6feMKFvkoQ__K7T43W7D6vm6qU_rIVRdw96W-Gf0G09zFuMPk0.Lev427xXvPEXInx4RTCdzXCKrE_a4wiR7-ffvepb5xA&dib_tag=se&keywords=How+to+Draw+a+Map&qid=1705824019&s=books&sprefix=how+to+draw+a+map%2Cstripbooks-intl-ship%2C223&sr=1-2)*.* London: HarperCollinsPublishers.) 21-30.
