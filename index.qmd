@@ -7,7 +7,7 @@ bibliography: references.bib
 
 ## Welcome
 
--   This is my website for the History of Cartography. It is designed to function as a kind of study portal for myself. abc
+-   This is my website for the History of Cartography. It is designed to function as a kind of study portal for myself.
 
 -   It can also be a supplementary site for classes related to the particular subject, History of Cartography, taught by me in [Seoul National University](https://www.snu.ac.kr/).
 
