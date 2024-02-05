@@ -5,6 +5,7 @@ project:
 website:
   title: "History of Cartography"
   sidebar: 
+    style: docked
     contents: 
 #      - section: "Overview"
 #        contents: 
@@ -13,7 +14,8 @@ website:
       - text: "---"    
       - section: "The Ancient World"
         contents: 
-          - first.qmd
+          - sec_ancient.qmd
+          - catalhoyuk.qmd
       - section: "The Classical World"
         contents:   
           - eratosthenes.qmd

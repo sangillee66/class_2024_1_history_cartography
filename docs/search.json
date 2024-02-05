@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Site Overview",
     "section": "",
-    "text": "This is my website for the History of Cartography. It is designed to function as a kind of study portal for myself.\nIt can also be a supplementary site for classes related to the particular subject, the History of Cartography, taught by me in Seoul National University.\n\n2024/1 700.231 Cartography (지도학)\n2024/1 M1862.000400 Topics in Cartography and Cartography Education: Maps and Civilization (지도학 및 지도교육 특강: 지도와 문명)",
+    "text": "This is my website for the History of Cartography. It is designed to function as a kind of study portal for myself.\nIt can also be a supplementary site for classes related to the particular subject, History of Cartography, taught by me in Seoul National University.\n\n2024/1 700.231 Cartography (지도학)\n2024/1 M1862.000400 Topics in Cartography and Cartography Education: Maps and Civilization (지도학 및 지도교육 특강: 지도와 문명)",
     "crumbs": [
       "Site Overview"
     ]
@@ -81,7 +81,7 @@
     "href": "index.html#welcome",
     "title": "Site Overview",
     "section": "",
-    "text": "This is my website for the History of Cartography. It is designed to function as a kind of study portal for myself.\nIt can also be a supplementary site for classes related to the particular subject, the History of Cartography, taught by me in Seoul National University.\n\n2024/1 700.231 Cartography (지도학)\n2024/1 M1862.000400 Topics in Cartography and Cartography Education: Maps and Civilization (지도학 및 지도교육 특강: 지도와 문명)",
+    "text": "This is my website for the History of Cartography. It is designed to function as a kind of study portal for myself.\nIt can also be a supplementary site for classes related to the particular subject, History of Cartography, taught by me in Seoul National University.\n\n2024/1 700.231 Cartography (지도학)\n2024/1 M1862.000400 Topics in Cartography and Cartography Education: Maps and Civilization (지도학 및 지도교육 특강: 지도와 문명)",
     "crumbs": [
       "Site Overview"
     ]
@@ -322,7 +322,11 @@
     "href": "first.html",
     "title": "First Maps",
     "section": "",
-    "text": "Back to top"
+    "text": "Back to top",
+    "crumbs": [
+      "The Ancient World",
+      "First Maps"
+    ]
   },
   {
     "objectID": "index.html#the-structure-of-the-site",
@@ -332,6 +336,28 @@
     "text": "The Structure of the Site\n\nThe history of cartography is divided into six subsequential parts following Harwood (2012). For each part, monumental maps are individually explored. Some examples are as listed below.\n\nThe Ancient World (up to 600 BCE)\n\nBabylonian World Map\n\nThe Classical World (600 BCE - 600 CE)\n\nEratosthenes’s World Maps\nPtolemy’s World Map\n\nThe Medieval World (600 - 1500 CE)\n\nHereford Mappa Mundi\nFra Mauro’s World Map\nal-Idrisi’s World Map\nKangnido in Korea\n\nThe Age of Discovery (1500 - 1700 CE)\n\nMercator’s World Map\nWaldseemüller’s World Map\n\nThe Age of Empire (1700 - 1900 CE)\n\nJohn Colomb’s British Empire Maps\n\nThe Modern World (since 1900 CE)\n\nPeters’ World Map",
     "crumbs": [
       "Site Overview"
+    ]
+  },
+  {
+    "objectID": "sec_ancient.html",
+    "href": "sec_ancient.html",
+    "title": "Section Intro",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "The Ancient World",
+      "Section Intro"
+    ]
+  },
+  {
+    "objectID": "catalhoyuk.html",
+    "href": "catalhoyuk.html",
+    "title": "Çatalhöyük Map",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "The Ancient World",
+      "Çatalhöyük Map"
     ]
   }
 ]
