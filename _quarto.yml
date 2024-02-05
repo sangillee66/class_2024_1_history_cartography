@@ -3,26 +3,36 @@ project:
   output-dir: docs
 
 website:
-  title: "2024/1 History of Cartography"
+  title: "History of Cartography"
   sidebar: 
     contents: 
-      - section: "Class Overview"
-        contents: 
-          - index.qmd
-          - syllabus.qmd
+#      - section: "Overview"
+#        contents: 
+      - index.qmd
+#          - syllabus.qmd
       - text: "---"    
-      - section: "10 Maps"
+      - section: "The Ancient World"
         contents: 
-          - outline.qmd
+          - first.qmd
+      - section: "The Classical World"
+        contents:   
           - eratosthenes.qmd
           - ptolemaios.qmd
+      - section: "The Medieval World"
+        contents: 
           - hereford.qmd
           - framauro.qmd
           - idrisi.qmd
           - kangnido.qmd
+      - section: "The Age of Discovery"
+        contents: 
           - waldseemuller.qmd
           - mercator.qmd
+      - section: "The Age of Empire"
+        contents: 
           - colomb.qmd
+      - section: "The Modern World"
+        contents: 
           - peters.qmd
       - text: "---"    
       - section: "Epilogue"    

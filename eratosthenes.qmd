@@ -1,6 +1,6 @@
 ---
 title: "Eratosthenes"
-date: last-modified
+date-modified: last-modified
 number-sections: false
 bibliography: references.bib
 ---

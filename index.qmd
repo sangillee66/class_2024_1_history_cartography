@@ -1,27 +1,54 @@
 ---
-title: "Introduction"
-date: last-modified
+title: "Site Overview"
+date-modified: last-modified
 number-sections: false
+bibliography: references.bib
 ---
 
 ## Welcome
 
-Welcome to **M1862.000400 Topics in Cartography and Cartography Education: Maps and Civilization** (지도학 및 지도교육 특강: 지도와 문명).
+-   This is my website for the History of Cartography. It is designed to function as a kind of study portal for myself.
 
-## Basic Info
+-   It can also be a supplementary site for classes related to the particular subject, History of Cartography, taught by me in [Seoul National University](https://www.snu.ac.kr/).
 
--   Instructor: Sang-Il Lee
+    -   2024/1 700.231 [Cartography](https://sangillee.snu.ac.kr/classes/2024_1_Cartography.html) (지도학)
 
-    -   Professor, Department of Geography Education, Seoul National University
-    -   Homepage: <https://sangillee.snu.ac.kr/>
-    -   Email: [si_lee\@snu.ac.kr](mailto:%20si_lee@snu.ac.kr)
-    -   Phone: 02-880-9028
-    -   Office: 10-319
+    -   2024/1 M1862.000400 [Topics in Cartography and Cartography Education: Maps and Civilization](https://sangillee.snu.ac.kr/classes/2024_1_Topics_Carto.html) (지도학 및 지도교육 특강: 지도와 문명)
 
--   TA
+## The Structure of the Site
 
-    -   TBD
+-   The history of cartography is divided into six subsequential parts following @harwood2012. For each part, monumental maps are individually explored. Some examples are as listed below.
 
--   Place: TBD
+    -   The Ancient World (up to 600 BCE)
 
--   Time: 18:00 – 20:50, Thursday
+        -   Babylonian World Map
+
+    -   The Classical World (600 BCE - 600 CE)
+
+        -   Eratosthenes's World Maps
+
+        -   Ptolemy's World Map
+
+    -   The Medieval World (600 - 1500 CE)
+
+        -   Hereford Mappa Mundi
+
+        -   Fra Mauro's World Map
+
+        -   al-Idrisi's World Map
+
+        -   Kangnido in Korea
+
+    -   The Age of Discovery (1500 - 1700 CE)
+
+        -   Mercator's World Map
+
+        -   Waldseemüller's World Map
+
+    -   The Age of Empire (1700 - 1900 CE)
+
+        -   John Colomb's British Empire Maps
+
+    -   The Modern World (since 1900 CE)
+
+        -   Peters' World Map
