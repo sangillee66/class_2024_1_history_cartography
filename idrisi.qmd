@@ -2,4 +2,25 @@
 title: "al-Idrisi"
 date-modified: last-modified
 number-sections: false
+bibliography: references.bib
 ---
+
+## Synopsis
+
+## References
+
+-   Brotton, Jerry. 2014. *Great Maps: The World’s Masterpieces Explored and Explained*. New York: Publishing. Hereford Mappa Mundi. 46-49.
+
+-   Masʻūdī, trans. by Paul Lunde and Caroline Stone, 2007, *From the Meadows of Gold*, London: Penguin.
+
+-   Rapoport, Yossef. 2020. *Islamic Maps*. Bodleian Library.
+
+-   데이비드 웨인스 지음(이정명 옮김). 2011. 이븐 바투타의 오디세이: 중세의 모험가가 전해주는 진귀한 이야기. 서울: 산처럼.
+
+-   이븐 할둔 지음(김호동 옮김). 2003. 역사서설. 서울: 까치글방.
+
+-   이상일 옮김, 2014, [지구 끝까지: 세상을 바꾼 100장의 지도](https://www.yes24.com/Product/Goods/11772692), 서울: 푸른길. (Harwood, Jeremy, 2011, [*To the Ends of the Earth: 100 Maps that Changed the World*](https://www.amazon.com/Ends-Earth-Maps-Changed-World/dp/0785828982), New York, N.Y.: Chartwell Books.) #20 (p.46)
+
+-   **이창신 옮김**. 2014. [욕망하는 지도: 12개의 지도로 읽는 세계사](https://www.yes24.com/Product/goods/12192777). 서울: 알에이치코리아. (Brotton, Jerry. 2012. [*A History of the World in 12 Maps*](https://www.amazon.com/History-World-12-Maps/dp/0143126024/ref=sr_1_1?crid=9UJLJ246IYSS&dib=eyJ2IjoiMSJ9.FY-MmIMOaa_OhpIKA0R7CHSpbeqP3wOtOFs1sSfDjxeQ8INh1JiJ-KQljiGWcA25hxz874-gObNXP3X5ux2xio52rPEJBPyZ7ZvLFDY0DDy8yLVU9scI67gu_NYK-0eK0EXvGAmeM6n4j8Vlbb5scmVYm88eBN25OVoCVQ_OnJwXaIQhrTFJBx88eP5I5jEQC0fdviI7qwn7JuLEicvdF9YVmfvRWbYyWu7okUNlW0A._mvJs7KogkSTGtuBdXenODFkqSV87AzIcwZwWisz9to&dib_tag=se&keywords=A+History+of+the+World+in+12+Maps&qid=1705823939&s=books&sprefix=a+history+of+the+world+in+12+maps%2Cstripbooks-intl-ship%2C217&sr=1-1)*.* New York: Viking.) 4 교류: 알이드리시, 서기 1154년. 95-136.
+
+@ogilsun2015
