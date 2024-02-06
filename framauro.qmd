@@ -2,14 +2,34 @@
 title: "Fra Mauro"
 date-modified: last-modified
 number-sections: false
+lightbox: true
 bibliography: references.bib
+suppress-bibliography: true
 ---
 
-## Synopsis
+## Basic Info.
+
+-   Name: [Fra Mauro map](https://en.wikipedia.org/wiki/Fra_Mauro_map)
+
+-   Who: 프라 마우로 [Fra Mauro](https://en.wikipedia.org/wiki/Fra_Mauro) (1400 - 1464)
+
+-   When: 1450년경
+
+    -   1804, Reproduced by British cartographer William Frazer
+
+-   Where: [Museo Correr](https://correr.visitmuve.it/en/home/), Venice, Italy
+
+    -   Displayed at [Biblioteca Marciana](https://www.venice-museum.com/biblioteca-marciana.php), Venice, Italy
+
+    -   Reproduced one at the [British Library](https://www.bl.uk/)
+
+-   Size: 2.4 x 2.4 m [@brotton2014b, 73]
+
+![https://commons.wikimedia.org/wiki/File:FraMauroDetailedMapInverted.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8b/FraMauroDetailedMapInverted.jpg)
 
 ## References
 
--   Brotton, Jerry. 2014. *Great Maps: The World’s Masterpieces Explored and Explained*. New York: Publishing. Fra Mauro's World Map. 72-75.
+-   Brotton, Jerry. 2014. [*Great Maps: The World’s Masterpieces Explored and Explained*](https://www.amazon.com/Great-Maps-Masterpieces-Explained-Smithsonian/dp/1465424636/ref=sr_1_1?crid=MTLGQHLZ5SRU&keywords=Great+Maps%3A+The+World%E2%80%99s+Masterpieces+Explored+and+Explained&qid=1707203784&s=books&sprefix=great+maps+the+world+s+masterpieces+explored+and+explained%2Cstripbooks-intl-ship%2C231&sr=1-1). New York: Publishing. Fra Mauro's World Map. 72-75.
 
 -   Cattaneo, Angelo. 2011. *Fra Mauro’s Mappa Mundi and Fifteenth-Century Venice*. Isd.
 
@@ -33,9 +53,15 @@ bibliography: references.bib
 
 -   강은슬 옮김. 2008. [프라 마우로의 세계 지도](https://www.yes24.com/Product/Goods/3103896). 서울: 푸른길. (Cowan, James. 2007. [*A Mapmaker’s Dream: The Meditations of Fra Mauro, Cartographer to the Court of Venice*](https://www.google.co.kr/books/edition/A_Mapmaker_s_Dream/01bQ6f_FB0IC?hl=ko&gbpv=0). Shambhala Publications.)
 
--   이상일 옮김, 2014, [지구 끝까지: 세상을 바꾼 100장의 지도](https://www.yes24.com/Product/Goods/11772692), 서울: 푸른길. (Harwood, Jeremy, 2011, [*To the Ends of the Earth: 100 Maps that Changed the World*](https://www.amazon.com/Ends-Earth-Maps-Changed-World/dp/0785828982), New York, N.Y.: Chartwell Books.) #28 (p.57)
+-   제러미 하우드 지음(이상일 옮김), 2014, [지구 끝까지: 세상을 바꾼 100장의 지도](https://www.yes24.com/Product/Goods/11772692), 서울: 푸른길. (Harwood, Jeremy, 2011, [*To the Ends of the Earth: 100 Maps that Changed the World*](https://www.amazon.com/Ends-Earth-Maps-Changed-World/dp/0785828982), New York, N.Y.: Chartwell Books.) #28 (p.57)
 
--   김명남 옮김. 2015. [지도 위의 인문학](https://www.yes24.com/Product/Goods/23544580): 지도 위에 그려진 인류 문명의 유쾌한 탐험, 파주: 다산북스. (Garfield, Simon. 2013. [*On the Map: A Mind-expanding Exploration of the Way the World Looks*](https://www.amazon.com/Map-Mind-Expanding-Exploration-Notable-Adults/dp/1592407803/ref=sr_1_1?crid=3BJW1GMAX4YZ5&dib=eyJ2IjoiMSJ9.lQGK5iKst9YJ8yMba6Ck0TRUHjQNFMzmbWXLYoV6jo4Jk4J7_nKqqf7F2C6id3nHQltlEDYPQ39oLfK4oLqViqP1LTrmA66wA6jVbBRQOuQGWWx0Oxc72aDNdtS3WoQYNFIXZ-uyCrWncYV83Q2QjQ.FdwJlG7VbG8FpX75S9mLb0ynmr8fBli71VRD27DKD9U&dib_tag=se&keywords=On+the+Map%3A+A+Mind-expanding&qid=1705823976&s=books&sprefix=on+the+map+a+mind-expanding%2Cstripbooks-intl-ship%2C227&sr=1-1), New York, N.Y.: Gotham Books.) 제4장 베네치아, 중국, 달을 여행하다. 95-109.
+-   **사이먼 가필드 지음(김명남 옮김)**. 2015. [지도 위의 인문학: 지도 위에 그려진 인류 문명의 유쾌한 탐험](https://www.yes24.com/Product/Goods/23544580), 파주: 다산북스. (Garfield, Simon. 2013. [*On the Map: A Mind-expanding Exploration of the Way the World Looks*](https://www.amazon.com/Map-Mind-Expanding-Exploration-Notable-Adults/dp/1592407803/ref=sr_1_1?crid=3BJW1GMAX4YZ5&dib=eyJ2IjoiMSJ9.lQGK5iKst9YJ8yMba6Ck0TRUHjQNFMzmbWXLYoV6jo4Jk4J7_nKqqf7F2C6id3nHQltlEDYPQ39oLfK4oLqViqP1LTrmA66wA6jVbBRQOuQGWWx0Oxc72aDNdtS3WoQYNFIXZ-uyCrWncYV83Q2QjQ.FdwJlG7VbG8FpX75S9mLb0ynmr8fBli71VRD27DKD9U&dib_tag=se&keywords=On+the+Map%3A+A+Mind-expanding&qid=1705823976&s=books&sprefix=on+the+map+a+mind-expanding%2Cstripbooks-intl-ship%2C227&sr=1-1), New York, N.Y.: Gotham Books.) 제4장 베네치아, 중국, 달을 여행하다. 95-109.
+
+## Web Resources
+
+-   [Digital Edition of Fra Mauro's Map of the World](https://engineeringhistoricalmemory.com/FraMauro.php)
+
+    -   Engineering Historical Memory
 
 ## Video Materials
 

@@ -1,5 +1,73 @@
 ---
-title: "Kangnido"
+title: "Kangnido Map"
 date-modified: last-modified
 number-sections: false
+lightbox: true
+bibliography: references.bib
+suppress-bibliography: true
 ---
+
+## Basic Info.
+
+-   Name: [Kangnido Map](https://en.wikipedia.org/wiki/Gangnido)
+
+    -   혼일강리역대국도지도(混一疆理歷代國都之圖)
+    -   역대제왕혼일강리도(歷代帝王混一疆理圖)
+    -   강리도(疆理圖)
+    -   *Honil Kangni Yŏktae Kukto Chi To*
+    -   *Honil Kangni Yŏktae Kukto Chi To*
+    -   "Map of Integrated Lands and Regions of Historical Countries and Capitals
+
+-   Who
+
+    -   발문: 권근(權近, 1352-1409)
+
+    -   제작: 김사형(金士衡, 1341-1407), 이무(李茂, 1355 - 1409), 이회(李薈, 미상)
+
+-   When: 1402 (태종 2년)
+
+-   Where
+
+    -   Ryukoku copy: Ryukoku University
+
+    -   Honkoji copy: Honkoji Temple of Shimabara, Nagasaki
+
+    -   모사본: [서울대학교 규장각 한국학연구원](https://geovr.com/vr/etc/kangnido/index.html)
+
+-   Size
+
+    -   Ryukoku copy: 158 x 163 cm
+
+    -   Honkoji copy: 220 x 280 cm
+
+![https://post.naver.com/viewer/postView.naver?volumeNo=26871382&memberNo=23889166](https://post-phinf.pstatic.net/MjAxOTExMTRfMTg1/MDAxNTczNzE5NDM4NTk5.aBS1G_5ppfT6WE82-fpTx5_nTdrOdlvgDHm_ublxw9Ug.VtIPFLD_zt2WBaqJU04WCPpHqVG5s-NqwcgZvXNGlnAg.JPEG/%ED%98%BC%EC%9D%BC%EA%B0%95%EB%A6%AC%EC%97%AD%EB%8C%80%EA%B5%AD%EB%8F%84%EC%A7%80%EB%8F%84.jpg?type=w1200)
+
+![https://en.wikipedia.org/wiki/Gangnido#/media/File:GeneralMapOfDistancesAndHistoricCapitals.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/GeneralMapOfDistancesAndHistoricCapitals.jpg/2542px-GeneralMapOfDistancesAndHistoricCapitals.jpg)
+
+## References
+
+-   Brotton, Jerry. 2014. [*Great Maps: The World’s Masterpieces Explored and Explained*](https://www.amazon.com/Great-Maps-Masterpieces-Explained-Smithsonian/dp/1465424636/ref=sr_1_1?crid=MTLGQHLZ5SRU&keywords=Great+Maps%3A+The+World%E2%80%99s+Masterpieces+Explored+and+Explained&qid=1707203784&s=books&sprefix=great+maps+the+world+s+masterpieces+explored+and+explained%2Cstripbooks-intl-ship%2C231&sr=1-1). New York: Publishing. Hereford Mappa Mundi. 66-67.
+
+-   **MyOldMaps**, [#236 Kangnido](https://www.myoldmaps.com/late-medieval-maps-1300/untitled.html).
+
+-   Park, Hyunhee. 2012. [*Mapping the Chinese and Islamic Worlds: Cross-Cultural Exchange in Pre-Modern Asia*](https://www.amazon.com/Mapping-Chinese-Islamic-Worlds-Hyunhee/dp/1107547830/ref=sr_1_1?crid=2GRMF1028WWI8&keywords=Mapping+the+Chinese+and+Islamic+Worlds%3A+Cross-Cultural+Exchange+in+Pre-Modern+Asia&qid=1707203862&s=books&sprefix=mapping+the+chinese+and+islamic+worlds+cross-cultural+exchange+in+pre-modern+asia%2Cstripbooks-intl-ship%2C231&sr=1-1). Cambridge: Cambridge University Press. <https://doi.org/10.1017/CBO9781139088329>.
+
+-   김선흥. 2022. [1402 강리도: 아프리카를 최초로 그린 세계 지도의 탄생](https://www.yes24.com/Product/Goods/115222234). 파주: 네잎클로바.
+
+-   미야 노리코 지음(김유영 옮김). 2010. [조선이 그린 세계지도: 몽골 제국의 유산과 동아시아](https://www.yes24.com/Product/Goods/4304717). 서울: 소와당.
+
+-   오상학. 2016. “[『혼일강리역대국도지도』의 최근 담론과 지도의 재평가](papers/오상학_2016.pdf).” 국토지리학회지 50 (1): 117–34. <https://kiss.kstudy.com/Detail/Ar?key=3425292>.
+
+-   최창모. 2013. “[《혼일강리역대국도지도(混一疆理歷代國都之圖)》 (1402년)의 제작 목적 및 정치사회적 배경에 관한 연구](papers/최창모_2013.pdf).” 한국이슬람학회 23 (1): 111–44. <https://kiss.kstudy.com/Detail/Ar?key=3140536>.
+
+-   **제리 브로턴 지음(이창신 옮김)**. 2014. [욕망하는 지도: 12개의 지도로 읽는 세계사](https://www.yes24.com/Product/goods/12192777). 서울: 알에이치코리아. (Brotton, Jerry. 2012. [*A History of the World in 12 Maps*](https://www.amazon.com/History-World-12-Maps/dp/0143126024/ref=sr_1_1?crid=9UJLJ246IYSS&dib=eyJ2IjoiMSJ9.FY-MmIMOaa_OhpIKA0R7CHSpbeqP3wOtOFs1sSfDjxeQ8INh1JiJ-KQljiGWcA25hxz874-gObNXP3X5ux2xio52rPEJBPyZ7ZvLFDY0DDy8yLVU9scI67gu_NYK-0eK0EXvGAmeM6n4j8Vlbb5scmVYm88eBN25OVoCVQ_OnJwXaIQhrTFJBx88eP5I5jEQC0fdviI7qwn7JuLEicvdF9YVmfvRWbYyWu7okUNlW0A._mvJs7KogkSTGtuBdXenODFkqSV87AzIcwZwWisz9to&dib_tag=se&keywords=A+History+of+the+World+in+12+Maps&qid=1705823939&s=books&sprefix=a+history+of+the+world+in+12+maps%2Cstripbooks-intl-ship%2C217&sr=1-1)*.* New York: Viking.) 4 제국: 혼일강리역대국도지도, 1402. 179-218.
+
+## Web Resources
+
+-   [나무위키: 혼일강리역대국도지도](https://namu.wiki/w/%ED%98%BC%EC%9D%BC%EA%B0%95%EB%A6%AC%EC%97%AD%EB%8C%80%EA%B5%AD%EB%8F%84%EC%A7%80%EB%8F%84)
+
+## Video Materials
+
+-   [1402 Kangnido](https://www.youtube.com/watch?v=HLtyHdyKlhc)
+
+    -   [1402 강리도 Kangnido](https://www.youtube.com/@1402Kangnido)

@@ -2,25 +2,84 @@
 title: "al-Idrisi"
 date-modified: last-modified
 number-sections: false
+lightbox: true
 bibliography: references.bib
+suppress-bibliography: true
 ---
 
-## Synopsis
+## Basic Info.
+
+-   Name: [al-Idrisi's World Map](https://en.wikipedia.org/wiki/Muhammad_al-Idrisi)
+
+    -   *Tabula Rogeriana*
+
+    -   Nuzhat al-mushtāq fī ikhtirāq al-āfāq
+
+    -   The Excursion of the One Who Yearns to Penetrate the Horizons
+
+    -   The Book of Roger
+
+-   Who: 알이드리시 al-Idrisi (1100 - 1165)
+
+    -   Abu Abdullah Muhammad al-Idrisi al-Qurtubi al-Hasani as-Sabti
+    -   Muhammad al-Idrisi
+    -   Al-Sharif al-Idrisi
+
+-   When: 1154 (1456 copy)
+
+-   Where: 보들리 도서관 Bodleian Library, Oxford, U.K.
+
+-   Size: 21 x 30 cm [@brotton2014b, 47]
+
+![https://commons.wikimedia.org/wiki/File:Al-Idrisi%27s_world_map.JPG](https://upload.wikimedia.org/wikipedia/commons/d/db/Al-Idrisi%27s_world_map.JPG)
+
+![https://commons.wikimedia.org/wiki/File:TabulaRogeriana_upside-down.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/TabulaRogeriana_upside-down.jpg/2560px-TabulaRogeriana_upside-down.jpg)
 
 ## References
 
--   Brotton, Jerry. 2014. *Great Maps: The World’s Masterpieces Explored and Explained*. New York: Publishing. Hereford Mappa Mundi. 46-49.
+-   Brotton, Jerry. 2014. [*Great Maps: The World’s Masterpieces Explored and Explained*](https://www.amazon.com/Great-Maps-Masterpieces-Explained-Smithsonian/dp/1465424636/ref=sr_1_1?crid=MTLGQHLZ5SRU&keywords=Great+Maps%3A+The+World%E2%80%99s+Masterpieces+Explored+and+Explained&qid=1707203784&s=books&sprefix=great+maps+the+world+s+masterpieces+explored+and+explained%2Cstripbooks-intl-ship%2C231&sr=1-1). New York: Publishing. Hereford Mappa Mundi. 46-49.
 
 -   Masʻūdī, trans. by Paul Lunde and Caroline Stone, 2007, *From the Meadows of Gold*, London: Penguin.
+
+-   **MyOldMaps**, [#219 al-Idrisi World Maps](https://www.myoldmaps.com/early-medieval-monographs/219-al-idrisi-world-maps/).
 
 -   Rapoport, Yossef. 2020. *Islamic Maps*. Bodleian Library.
 
 -   데이비드 웨인스 지음(이정명 옮김). 2011. 이븐 바투타의 오디세이: 중세의 모험가가 전해주는 진귀한 이야기. 서울: 산처럼.
 
+-   맬컴 스완스턴ㆍ알렉산더 스완스턴 지음(유나영 옮김). 2021. [지도의 역사: 지도로 그려진 최초의 발자취부터 인공지능까지](https://www.yes24.com/Product/Goods/104227876). 서울: 소소의책. (Swanston, Malcolm, and Alexander Swanston. 2019. [*How to Draw a Map*](https://www.amazon.com/How-to-Draw-a-Map/dp/0008275793/ref=sr_1_2?crid=215Q9RNBMV48J&dib=eyJ2IjoiMSJ9.DnuLacSDTLpZaYAPmIRSfz7vy-o7UERC3fTszoV0jhEEr8FXT1cDbT--r7xxnZmYB4jZ9jM5FXcvOnYk7dr27Vdwek5pU12DGGcykFuM2X_j6nAY4mw-MTRjhnWhUhlFmwwhI1_wYiFLxTOKjNPgDir8_GI4bKClkI3i1X1VB7zrj-noPbUOtGDMQ6feMKFvkoQ__K7T43W7D6vm6qU_rIVRdw96W-Gf0G09zFuMPk0.Lev427xXvPEXInx4RTCdzXCKrE_a4wiR7-ffvepb5xA&dib_tag=se&keywords=How+to+Draw+a+Map&qid=1705824019&s=books&sprefix=how+to+draw+a+map%2Cstripbooks-intl-ship%2C223&sr=1-2)*.* London: HarperCollinsPublishers.) 4 낙원으로 가는 길. 43-64.
+
+-   발 로스 지음(홍영분 옮김). 2007. [지도를 만든 사람들 : 미지의 세계로 가는 길을 그리다](https://www.yes24.com/Product/Goods/2500670). 서울: 아침이슬. (Ross, Val. 2003. [*The Road to There: Mapmakers and Their Stories*](https://www.google.co.kr/books/edition/_/AfscmQEACAAJ?hl=ko&sa=X&ved=2ahUKEwie1JbgrJaEAxXOrVYBHd9PCdsQ7_IDegQIHRAC). Plattsburgh, N.Y: Tundra Books.) 2 중세 세계를 그린 로제르 2세와 알 이드리시, 22-37.
+
+-   오길순. 2015. “[이드리시 세계지도의 모사와 분석](papers/오길순_2015.pdf).” 한국고지도연구 7 (2): 75–111. 
+
+-   **오지 도시아키 지음(송태욱 옮김)**, 2010, [세계 지도의 탄생](https://www.yes24.com/Product/Goods/3969693), 파주: 알마(応地利明, 2007, [「世界地圖」の誕生](https://www.amazon.com/Sekai-chizu-tanjo%C3%8C-kataru/dp/4532165830), 東京: 日本経済新聞出版社). 근대를 선취한 중세의 이드리시 세계지도. 185-209.
+
 -   이븐 할둔 지음(김호동 옮김). 2003. 역사서설. 서울: 까치글방.
 
--   이상일 옮김, 2014, [지구 끝까지: 세상을 바꾼 100장의 지도](https://www.yes24.com/Product/Goods/11772692), 서울: 푸른길. (Harwood, Jeremy, 2011, [*To the Ends of the Earth: 100 Maps that Changed the World*](https://www.amazon.com/Ends-Earth-Maps-Changed-World/dp/0785828982), New York, N.Y.: Chartwell Books.) #20 (p.46)
+-   제러미 하우드 지음(이상일 옮김), 2014, [지구 끝까지: 세상을 바꾼 100장의 지도](https://www.yes24.com/Product/Goods/11772692), 서울: 푸른길. (Harwood, Jeremy, 2011, [*To the Ends of the Earth: 100 Maps that Changed the World*](https://www.amazon.com/Ends-Earth-Maps-Changed-World/dp/0785828982), New York, N.Y.: Chartwell Books.) #20 (p.46)
 
--   **이창신 옮김**. 2014. [욕망하는 지도: 12개의 지도로 읽는 세계사](https://www.yes24.com/Product/goods/12192777). 서울: 알에이치코리아. (Brotton, Jerry. 2012. [*A History of the World in 12 Maps*](https://www.amazon.com/History-World-12-Maps/dp/0143126024/ref=sr_1_1?crid=9UJLJ246IYSS&dib=eyJ2IjoiMSJ9.FY-MmIMOaa_OhpIKA0R7CHSpbeqP3wOtOFs1sSfDjxeQ8INh1JiJ-KQljiGWcA25hxz874-gObNXP3X5ux2xio52rPEJBPyZ7ZvLFDY0DDy8yLVU9scI67gu_NYK-0eK0EXvGAmeM6n4j8Vlbb5scmVYm88eBN25OVoCVQ_OnJwXaIQhrTFJBx88eP5I5jEQC0fdviI7qwn7JuLEicvdF9YVmfvRWbYyWu7okUNlW0A._mvJs7KogkSTGtuBdXenODFkqSV87AzIcwZwWisz9to&dib_tag=se&keywords=A+History+of+the+World+in+12+Maps&qid=1705823939&s=books&sprefix=a+history+of+the+world+in+12+maps%2Cstripbooks-intl-ship%2C217&sr=1-1)*.* New York: Viking.) 4 교류: 알이드리시, 서기 1154년. 95-136.
+-   **이창신 옮김**. 2014. [욕망하는 지도: 12개의 지도로 읽는 세계사](https://www.yes24.com/Product/goods/12192777). 서울: 알에이치코리아. (Brotton, Jerry. 2012. [*A History of the World in 12 Maps*](https://www.amazon.com/History-World-12-Maps/dp/0143126024/ref=sr_1_1?crid=9UJLJ246IYSS&dib=eyJ2IjoiMSJ9.FY-MmIMOaa_OhpIKA0R7CHSpbeqP3wOtOFs1sSfDjxeQ8INh1JiJ-KQljiGWcA25hxz874-gObNXP3X5ux2xio52rPEJBPyZ7ZvLFDY0DDy8yLVU9scI67gu_NYK-0eK0EXvGAmeM6n4j8Vlbb5scmVYm88eBN25OVoCVQ_OnJwXaIQhrTFJBx88eP5I5jEQC0fdviI7qwn7JuLEicvdF9YVmfvRWbYyWu7okUNlW0A._mvJs7KogkSTGtuBdXenODFkqSV87AzIcwZwWisz9to&dib_tag=se&keywords=A+History+of+the+World+in+12+Maps&qid=1705823939&s=books&sprefix=a+history+of+the+world+in+12+maps%2Cstripbooks-intl-ship%2C217&sr=1-1)*.* New York: Viking.) 2 교류: 알이드리시, 서기 1154년. 95-136.
 
-@ogilsun2015
+## Web Resources
+
+-   [Nuzhat al-mushtāq fī ikhtirāq al-āfāq](https://digital.bodleian.ox.ac.uk/objects/ced0d8bd-1019-4af2-9086-e411115f1507/)
+    -   Bodleian Library, U.K., 1553
+-   [Al-Idrisi’s Masterpiece of Medieval Geography](https://blogs.loc.gov/maps/2022/01/al-idrisis-masterpiece-of-medieval-geography/)
+    -   Library of Congress, U.S., 2022-01-13
+-   [Konrad Miller's Translation for Tabula Rogeriana, 1928](https://www.loc.gov/resource/g3200.ct001903/?r=-0.028,-0.091,0.977,0.656,0)
+    -   Library of Congress, U.S.
+-   [*Tabula Rogeriana*](https://www.loc.gov/item/2021667394?loclr=blogmap), The Excursion of the One Who Yearns to Penetrate the Horizons or The Book of Roger (로제르의 서)
+    -   Library of Congress, U.S., 1250-1325
+-   [Nuzhat al-mushtāq fī ikhtirāq al-āfāq](https://gallica.bnf.fr/ark:/12148/btv1b6000547t.r=.langEN?lang=EN)
+    -   Bibliothèque nationale de France, France, 1250-1325
+
+## Video Materials
+
+-   [The Normans - e3 - Book of Rogers](https://www.youtube.com/watch?v=F3x6twQZlcA)
+
+    -   BBC
+
+-   [World map from 1154 to go on display in Oxford](https://www.youtube.com/watch?v=cEmWjBK-78I)
+
+    -   ITV News

@@ -2,4 +2,57 @@
 title: "Waldseemüller"
 date-modified: last-modified
 number-sections: false
+lightbox: true
+bibliography: references.bib
+suppress-bibliography: true
 ---
+
+## Basic Info.
+
+-   Name: Waldseemüller's 1507 World Map
+
+    -   *Universalis Cosmographia*
+
+-   Who: 마르틴 발트제뮐러 Martin Waldseemüller (1470 – 16 March 1520)
+
+-   When: 1507
+
+-   Where: [Library of Congress](https://www.loc.gov/), Washington D.C., U.S.
+
+-   Size: 1.28 x 2.33 M [@brotton2014b, 86]
+
+![https://en.wikipedia.org/wiki/File:Waldseemuller_map_2.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Waldseemuller_map_2.jpg/2560px-Waldseemuller_map_2.jpg)
+
+## References
+
+-   Brotton, Jerry. 2014. [*Great Maps: The World’s Masterpieces Explored and Explained*](https://www.amazon.com/Great-Maps-Masterpieces-Explained-Smithsonian/dp/1465424636/ref=sr_1_1?crid=MTLGQHLZ5SRU&keywords=Great+Maps%3A+The+World%E2%80%99s+Masterpieces+Explored+and+Explained&qid=1707203784&s=books&sprefix=great+maps+the+world+s+masterpieces+explored+and+explained%2Cstripbooks-intl-ship%2C231&sr=1-1). New York: Publishing. Hereford Mappa Mundi. 86-89.
+
+-   Duzer, Chet Van. 2018. [*Henricus Martellus’s World Map at Yale (c. 1491): Multispectral Imaging, Sources, and Influence*](https://www.google.co.kr/books/edition/Henricus_Martellus_s_World_Map_at_Yale_c/11RnDwAAQBAJ?hl=ko&gbpv=0). Springer.
+
+-   Duzer, Chet Van. 2019. [*Martin Waldseemüller’s ’Carta Marina’ of 1516: Study and Transcription of the Long Legends*](https://www.google.co.kr/books/edition/Martin_Waldseem%C3%BCller_s_Carta_marina_of/yEG1DwAAQBAJ?hl=ko&gbpv=0). Springer Nature.
+
+-   Hessler, John W. 2013. [*A Renaissance Globemaker’s Toolbox and the Naming of America*](https://www.google.co.kr/books/edition/A_Renaissance_Globemaker_s_Toolbox_and_t/NoHDNAEACAAJ?hl=ko). Giles.
+
+-   Schwartz, Seymour I. 2007. [*Putting "America" on the Map: The Story of the Most Important Graphic Document*](https://www.google.co.kr/books/edition/Putting_America_on_the_Map/xXIGngEACAAJ?hl=ko) *in the History of the United States*. New York: Prometheus Books.
+
+-   Waldse<https://www.youtube.com/watch?v=_OyCt1FXQWc>emüller, Martin. 2008. [*The Naming of America: Martin Waldseemüller’s 1507 World Map and the Cosmographiae Introductio*](https://www.google.co.kr/books/edition/The_Naming_of_America/VUcaAQAAIAAJ?hl=ko&gbpv=0&bsq=The%20Naming%20of%20America:%20Martin%20Waldseem%C3%BCller%E2%80%99s%201507). London: GILES.
+
+-   **MyOldMaps**, [#310 Martin Waldseemuller World Map](https://www.myoldmaps.com/renaissance-maps-1490-1800/310-martin-waldseemuller/).
+
+-   맬컴 스완스턴ㆍ알렉산더 스완스턴 지음(유나영 옮김). 2021. [지도의 역사: 지도로 그려진 최초의 발자취부터 인공지능까지](https://www.yes24.com/Product/Goods/104227876). 서울: 소소의책. (Swanston, Malcolm, and Alexander Swanston. 2019. [*How to Draw a Map*](https://www.amazon.com/How-to-Draw-a-Map/dp/0008275793/ref=sr_1_2?crid=215Q9RNBMV48J&dib=eyJ2IjoiMSJ9.DnuLacSDTLpZaYAPmIRSfz7vy-o7UERC3fTszoV0jhEEr8FXT1cDbT--r7xxnZmYB4jZ9jM5FXcvOnYk7dr27Vdwek5pU12DGGcykFuM2X_j6nAY4mw-MTRjhnWhUhlFmwwhI1_wYiFLxTOKjNPgDir8_GI4bKClkI3i1X1VB7zrj-noPbUOtGDMQ6feMKFvkoQ__K7T43W7D6vm6qU_rIVRdw96W-Gf0G09zFuMPk0.Lev427xXvPEXInx4RTCdzXCKrE_a4wiR7-ffvepb5xA&dib_tag=se&keywords=How+to+Draw+a+Map&qid=1705824019&s=books&sprefix=how+to+draw+a+map%2Cstripbooks-intl-ship%2C223&sr=1-2)*.* London: HarperCollinsPublishers.) 5 신세계를 발견하다 6 우리가 먼저 왔다네 7 최초의 세계 일주, 8 세상의 모든 것을 탐사하라. 65-125.
+
+-   **사이먼 가필드 지음(김명남 옮김)**. 2015. [지도 위의 인문학: 지도 위에 그려진 인류 문명의 유쾌한 탐험](https://www.yes24.com/Product/Goods/23544580), 파주: 다산북스. (Garfield, Simon. 2013. [*On the Map: A Mind-expanding Exploration of the Way the World Looks*](https://www.amazon.com/Map-Mind-Expanding-Exploration-Notable-Adults/dp/1592407803/ref=sr_1_1?crid=3BJW1GMAX4YZ5&dib=eyJ2IjoiMSJ9.lQGK5iKst9YJ8yMba6Ck0TRUHjQNFMzmbWXLYoV6jo4Jk4J7_nKqqf7F2C6id3nHQltlEDYPQ39oLfK4oLqViqP1LTrmA66wA6jVbBRQOuQGWWx0Oxc72aDNdtS3WoQYNFIXZ-uyCrWncYV83Q2QjQ.FdwJlG7VbG8FpX75S9mLb0ynmr8fBli71VRD27DKD9U&dib_tag=se&keywords=On+the+Map%3A+A+Mind-expanding&qid=1705823976&s=books&sprefix=on+the+map+a+mind-expanding%2Cstripbooks-intl-ship%2C227&sr=1-1), New York, N.Y.: Gotham Books.) 제6장 아메리고에 오신 것을 환영합니다. 130-151.
+
+-   제러미 하우드 지음(이상일 옮김), 2014, [지구 끝까지: 세상을 바꾼 100장의 지도](https://www.yes24.com/Product/Goods/11772692), 서울: 푸른길. (Harwood, Jeremy, 2011, [*To the Ends of the Earth: 100 Maps that Changed the World*](https://www.amazon.com/Ends-Earth-Maps-Changed-World/dp/0785828982), New York, N.Y.: Chartwell Books.) #33 (p.66)
+
+-   **제리 브로턴 지음(이창신 옮김)**. 2014. [욕망하는 지도: 12개의 지도로 읽는 세계사](https://www.yes24.com/Product/goods/12192777). 서울: 알에이치코리아. (Brotton, Jerry. 2012. [*A History of the World in 12 Maps*](https://www.amazon.com/History-World-12-Maps/dp/0143126024/ref=sr_1_1?crid=9UJLJ246IYSS&dib=eyJ2IjoiMSJ9.FY-MmIMOaa_OhpIKA0R7CHSpbeqP3wOtOFs1sSfDjxeQ8INh1JiJ-KQljiGWcA25hxz874-gObNXP3X5ux2xio52rPEJBPyZ7ZvLFDY0DDy8yLVU9scI67gu_NYK-0eK0EXvGAmeM6n4j8Vlbb5scmVYm88eBN25OVoCVQ_OnJwXaIQhrTFJBx88eP5I5jEQC0fdviI7qwn7JuLEicvdF9YVmfvRWbYyWu7okUNlW0A._mvJs7KogkSTGtuBdXenODFkqSV87AzIcwZwWisz9to&dib_tag=se&keywords=A+History+of+the+World+in+12+Maps&qid=1705823939&s=books&sprefix=a+history+of+the+world+in+12+maps%2Cstripbooks-intl-ship%2C217&sr=1-1)*.* New York: Viking.) 5 발견: 마르틴 발트제뮐러의 세계지도, 1507. 219-272.
+
+## Video Materials
+
+-   [How a 1507 German Map Became America’s Birth Certificate](https://www.youtube.com/watch?v=_OyCt1FXQWc)
+
+    -   Voice of America
+
+-   [The map that gave America it's name](https://www.youtube.com/watch?v=bMRhs_e4DXo)
+
+    -   Geography Greek

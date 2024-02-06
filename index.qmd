@@ -2,6 +2,7 @@
 title: "Site Overview"
 date-modified: last-modified
 number-sections: false
+lightbox: true
 bibliography: references.bib
 ---
 

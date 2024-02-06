@@ -2,10 +2,28 @@
 title: "Eratosthenes"
 date-modified: last-modified
 number-sections: false
+lightbox: true
 bibliography: references.bib
+suppress-bibliography: true
 ---
 
-## Synopsis
+## Basic Info.
+
+-   Name: 에라토스테네스의 세계지도 Eratosthenes' World Map
+
+-   Who: 키레네의 에라토스테네스 [Eratostenes of Cyrene](https://en.wikipedia.org/wiki/Eratosthenes) (276 - 194 BCE)
+
+-   When: 194 BCE
+
+    -   The original have been lost.
+
+    -   Reproduced by [Edward Bunbury](https://en.wikipedia.org/wiki/Edward_Bunbury) (1811-1895) (Bunbury, 1879)
+
+-   Where: No place
+
+-   Size: Unknown
+
+![https://commons.wikimedia.org/wiki/File:Mappa_di_Eratostene.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mappa_di_Eratostene.jpg/2560px-Mappa_di_Eratostene.jpg)
 
 ## References
 
@@ -49,11 +67,15 @@ bibliography: references.bib
 
 -   Thomson, James Oliver. 1965. *History of Ancient Geography*. Biblo & Tannen Publishers.
 
--   김명남 옮김. 2015. [지도 위의 인문학](https://www.yes24.com/Product/Goods/23544580): 지도 위에 그려진 인류 문명의 유쾌한 탐험, 파주: 다산북스. (Garfield, Simon. 2013. [*On the Map: A Mind-expanding Exploration of the Way the World Looks*](https://www.amazon.com/Map-Mind-Expanding-Exploration-Notable-Adults/dp/1592407803/ref=sr_1_1?crid=3BJW1GMAX4YZ5&dib=eyJ2IjoiMSJ9.lQGK5iKst9YJ8yMba6Ck0TRUHjQNFMzmbWXLYoV6jo4Jk4J7_nKqqf7F2C6id3nHQltlEDYPQ39oLfK4oLqViqP1LTrmA66wA6jVbBRQOuQGWWx0Oxc72aDNdtS3WoQYNFIXZ-uyCrWncYV83Q2QjQ.FdwJlG7VbG8FpX75S9mLb0ynmr8fBli71VRD27DKD9U&dib_tag=se&keywords=On+the+Map%3A+A+Mind-expanding&qid=1705823976&s=books&sprefix=on+the+map+a+mind-expanding%2Cstripbooks-intl-ship%2C227&sr=1-1), New York, N.Y.: Gotham Books.) 제1장 선구자들이 그린 정말 이상한 지도. 25-50.
+-   맬컴 스완스턴ㆍ알렉산더 스완스턴 지음(유나영 옮김). 2021. [지도의 역사: 지도로 그려진 최초의 발자취부터 인공지능까지](https://www.yes24.com/Product/Goods/104227876). 서울: 소소의책. (Swanston, Malcolm, and Alexander Swanston. 2019. [*How to Draw a Map*](https://www.amazon.com/How-to-Draw-a-Map/dp/0008275793/ref=sr_1_2?crid=215Q9RNBMV48J&dib=eyJ2IjoiMSJ9.DnuLacSDTLpZaYAPmIRSfz7vy-o7UERC3fTszoV0jhEEr8FXT1cDbT--r7xxnZmYB4jZ9jM5FXcvOnYk7dr27Vdwek5pU12DGGcykFuM2X_j6nAY4mw-MTRjhnWhUhlFmwwhI1_wYiFLxTOKjNPgDir8_GI4bKClkI3i1X1VB7zrj-noPbUOtGDMQ6feMKFvkoQ__K7T43W7D6vm6qU_rIVRdw96W-Gf0G09zFuMPk0.Lev427xXvPEXInx4RTCdzXCKrE_a4wiR7-ffvepb5xA&dib_tag=se&keywords=How+to+Draw+a+Map&qid=1705824019&s=books&sprefix=how+to+draw+a+map%2Cstripbooks-intl-ship%2C223&sr=1-2)*.* London: HarperCollinsPublishers.) 2. 시에네의 우물에 태양이 비칠때. 21-30.
 
--   유나영 옮김. 2021. [지도의 역사: 지도로 그려진 최초의 발자취부터 인공지능까지](https://www.yes24.com/Product/Goods/104227876). 서울: 소소의책. (Swanston, Malcolm, and Alexander Swanston. 2019. [*How to Draw a Map*](https://www.amazon.com/How-to-Draw-a-Map/dp/0008275793/ref=sr_1_2?crid=215Q9RNBMV48J&dib=eyJ2IjoiMSJ9.DnuLacSDTLpZaYAPmIRSfz7vy-o7UERC3fTszoV0jhEEr8FXT1cDbT--r7xxnZmYB4jZ9jM5FXcvOnYk7dr27Vdwek5pU12DGGcykFuM2X_j6nAY4mw-MTRjhnWhUhlFmwwhI1_wYiFLxTOKjNPgDir8_GI4bKClkI3i1X1VB7zrj-noPbUOtGDMQ6feMKFvkoQ__K7T43W7D6vm6qU_rIVRdw96W-Gf0G09zFuMPk0.Lev427xXvPEXInx4RTCdzXCKrE_a4wiR7-ffvepb5xA&dib_tag=se&keywords=How+to+Draw+a+Map&qid=1705824019&s=books&sprefix=how+to+draw+a+map%2Cstripbooks-intl-ship%2C223&sr=1-2)*.* London: HarperCollinsPublishers.) 2. 시에네의 우물에 태양이 비칠때. 21-30.
+-   사이먼 가필드 지음(김명남 옮김). 2015. [지도 위의 인문학](https://www.yes24.com/Product/Goods/23544580): 지도 위에 그려진 인류 문명의 유쾌한 탐험, 파주: 다산북스. (Garfield, Simon. 2013. [*On the Map: A Mind-expanding Exploration of the Way the World Looks*](https://www.amazon.com/Map-Mind-Expanding-Exploration-Notable-Adults/dp/1592407803/ref=sr_1_1?crid=3BJW1GMAX4YZ5&dib=eyJ2IjoiMSJ9.lQGK5iKst9YJ8yMba6Ck0TRUHjQNFMzmbWXLYoV6jo4Jk4J7_nKqqf7F2C6id3nHQltlEDYPQ39oLfK4oLqViqP1LTrmA66wA6jVbBRQOuQGWWx0Oxc72aDNdtS3WoQYNFIXZ-uyCrWncYV83Q2QjQ.FdwJlG7VbG8FpX75S9mLb0ynmr8fBli71VRD27DKD9U&dib_tag=se&keywords=On+the+Map%3A+A+Mind-expanding&qid=1705823976&s=books&sprefix=on+the+map+a+mind-expanding%2Cstripbooks-intl-ship%2C227&sr=1-1), New York, N.Y.: Gotham Books.) 제1장 선구자들이 그린 정말 이상한 지도. 25-50.
 
-[@berg2018]
+## Web Resources
+
+-   [Eratosthenes](https://wiki.gis.com/wiki/index.php/Eratosthenes)
+
+    -   wiki.gis.com
 
 ## Video Materials
 

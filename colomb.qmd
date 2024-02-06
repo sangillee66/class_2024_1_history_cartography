@@ -2,4 +2,51 @@
 title: "John Colomb"
 date-modified: last-modified
 number-sections: false
+lightbox: true
+bibliography: references.bib
+suppress-bibliography: true
 ---
+
+## Basic Info.
+
+-   Name: [Imperial Federation](https://en.wikipedia.org/wiki/Imperial_Federation), Map of the world showing the extent of the British Empire in 1886
+
+-   Who
+
+    -   Information Compilation: 존 콜롬 [John Colomb](https://en.wikipedia.org/wiki/John_Colomb) (1 May 1838 – 27 May 1909)
+
+    -   Drawing: 월터 크레인 [Walter Crane](https://en.wikipedia.org/wiki/Walter_Crane) (15 August 1845 – 14 March 1915)
+
+-   When: 1886
+
+-   Where: [Boston Public Library](https://collections.leventhalmap.org/search/commonwealth:x633f896s)
+
+    -   *Graphic: An Illustrated Weekly Newspaper* as a color supplement to mark Queen Victoria's Golden Jubilee [@harwood2012, 130]
+
+-   Size: 63 x 86 cm
+
+![https://en.wikipedia.org/wiki/Imperial_Federation](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Imperial_Federation%2C_Map_of_the_World_Showing_the_Extent_of_the_British_Empire_in_1886_%28levelled%29.jpg/2560px-Imperial_Federation%2C_Map_of_the_World_Showing_the_Extent_of_the_British_Empire_in_1886_%28levelled%29.jpg)
+
+## References
+
+-   Biltcliffe, Pippa. 2005. “[Walter Crane and the Imperial Federation Map Showing the Extent of the British Empire (1886)](papers/biltcliffe_2005.pdf).” *Imago Mundi* 57 (1): 63–69. <https://doi.org/10.1080/0308569042000289851>.
+
+-   Colomb, John. 1891. “[Britannic Confederation: I.A Survey of Existing Conditions](papers/colomb_1891.pdf).” *Scottish Geographical Magazine* 7 (5): 233–47. <https://doi.org/10.1080/00369229108732448>.
+
+-   White, Arthur Silva. 1892. [*Britannic Confederation: A Series of Papers by Admiral Sir John Colomb, Professor Edward A. Freeman, George G. Chisholm, Professor Shield Nicholson, Maurice H. Hervey, and The Right Honble Lord Thring*](https://books.google.co.kr/books?id=yURXzJWQ1eYC), London: G. Philip & Son.
+
+-   제러미 하우드 지음(이상일 옮김), 2014, [지구 끝까지: 세상을 바꾼 100장의 지도](https://www.yes24.com/Product/Goods/11772692), 서울: 푸른길. (Harwood, Jeremy, 2011, [*To the Ends of the Earth: 100 Maps that Changed the World*](https://www.amazon.com/Ends-Earth-Maps-Changed-World/dp/0785828982), New York, N.Y.: Chartwell Books.) #71 (p.130)
+
+## Web Resources
+
+-   [The empire on which the sun never sets](https://en.wikipedia.org/wiki/The_empire_on_which_the_sun_never_sets)
+
+-   [Prime meridian](https://en.wikipedia.org/wiki/Prime_meridian)
+
+-   [International Meridian Conference](https://en.wikipedia.org/wiki/International_Meridian_Conference)
+
+## Video Materials
+
+-   [Analyzing a map: “Imperial Federation,” 1886](https://www.youtube.com/watch?v=Nds2Rg_OOO8)
+
+    -   Choices Program

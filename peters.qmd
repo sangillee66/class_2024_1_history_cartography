@@ -2,4 +2,53 @@
 title: "Peters"
 date-modified: last-modified
 number-sections: false
+lightbox: true
+bibliography: references.bib
+suppress-bibliography: true
 ---
+
+## Basic Info.
+
+-   Name: [Gall-Peters Projection Map](https://en.wikipedia.org/wiki/Gall%E2%80%93Peters_projection)
+
+-   Who: [Arno Peters](https://en.wikipedia.org/wiki/Arno_Peters) (22 May 1916 – 2 December 2002)
+
+-   When: 1973; 1983
+
+-   Where: irrelevant
+
+-   Size: irrelevant
+
+![https://commons.wikimedia.org/wiki/File:Gall%E2%80%93Peters_projection_SW.jpg](https://upload.wikimedia.org/wikipedia/commons/3/34/Gall%E2%80%93Peters_projection_SW.jpg)
+
+## References
+
+-   Brotton, Jerry. 2014. [*Great Maps: The World’s Masterpieces Explored and Explained*](https://www.amazon.com/Great-Maps-Masterpieces-Explained-Smithsonian/dp/1465424636/ref=sr_1_1?crid=MTLGQHLZ5SRU&keywords=Great+Maps%3A+The+World%E2%80%99s+Masterpieces+Explored+and+Explained&qid=1707203784&s=books&sprefix=great+maps+the+world+s+masterpieces+explored+and+explained%2Cstripbooks-intl-ship%2C231&sr=1-1). New York: Publishing. Hereford Mappa Mundi. 226-229.
+
+-   Crampton, Jeremy. 1994. “[Cartography’s Defining Moment: The Peters Projection Controversy, 19741990](papers/cramption_1994.pdf).” *Cartographica: The International Journal for Geographic Information and Geovisualization* 31 (4): 16–32. <https://doi.org/10.3138/1821-6811-L372-345P>.
+
+-   Kaiser, Ward L. 1993. [*A New View of the World: A Handbook to the World Map, Peters Projection*](https://www.google.co.kr/books/edition/A_New_View_of_the_World/gr6oswEACAAJ?hl=ko). Friendship Press.
+
+-   Peters, Arno. 1983. [*The New Cartography: = Die Neue Kartographie*](https://www.google.co.kr/books/edition/The_New_Cartography/5vNm0AEACAAJ?hl=ko). Klagenfurt: Universitätsverlag Carinthia.
+
+-   손일ㆍ이한방. 2004. “[페터스 도법과 이에 대한 논쟁의 지도학의 의미](papers/손일_이한방_2004.pdf).” 한국지도학회지 4 (1): 1–11. <https://db.koreascholar.com/Article/Detail/278824>.
+
+-   이상일ㆍ조대헌ㆍ이건학. 2012. “[태평양 중심의 세계지도 제작을 위한 최적의 지도 투영법 선정](papers/이상일_조대헌_이건학_2012.pdf).” 한국지도학회지 12 (1): 120. <https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10836449>.
+
+-   제러미 하우드 지음(이상일 옮김), 2014, [지구 끝까지: 세상을 바꾼 100장의 지도](https://www.yes24.com/Product/Goods/11772692), 서울: 푸른길. (Harwood, Jeremy, 2011, [*To the Ends of the Earth: 100 Maps that Changed the World*](https://www.amazon.com/Ends-Earth-Maps-Changed-World/dp/0785828982), New York, N.Y.: Chartwell Books.) #96 (p.174)
+
+-   **제리 브로턴 지음(이창신 옮김)**. 2014. [욕망하는 지도: 12개의 지도로 읽는 세계사](https://www.yes24.com/Product/goods/12192777). 서울: 알에이치코리아. (Brotton, Jerry. 2012. [*A History of the World in 12 Maps*](https://www.amazon.com/History-World-12-Maps/dp/0143126024/ref=sr_1_1?crid=9UJLJ246IYSS&dib=eyJ2IjoiMSJ9.FY-MmIMOaa_OhpIKA0R7CHSpbeqP3wOtOFs1sSfDjxeQ8INh1JiJ-KQljiGWcA25hxz874-gObNXP3X5ux2xio52rPEJBPyZ7ZvLFDY0DDy8yLVU9scI67gu_NYK-0eK0EXvGAmeM6n4j8Vlbb5scmVYm88eBN25OVoCVQ_OnJwXaIQhrTFJBx88eP5I5jEQC0fdviI7qwn7JuLEicvdF9YVmfvRWbYyWu7okUNlW0A._mvJs7KogkSTGtuBdXenODFkqSV87AzIcwZwWisz9to&dib_tag=se&keywords=A+History+of+the+World+in+12+Maps&qid=1705823939&s=books&sprefix=a+history+of+the+world+in+12+maps%2Cstripbooks-intl-ship%2C217&sr=1-1)*.* New York: Viking.) 11 평등: 페터스 도법, 1973. 525-566.
+
+## Video Materials
+
+-   [Gall-Peters Projection](https://www.youtube.com/watch?v=vVX-PrBRtTY)
+
+    -   An episode (Season 2, Episode 16, "Somebody's Going to Emergency, Somebody's Going to Jail.", aired on February 28, 2001) in [The West Wing](https://en.wikipedia.org/wiki/The_West_Wing) (NBC, 1999-2006), Warner Brothers
+
+-   [Why Every World Map You've Ever Read is Wrong](https://www.youtube.com/watch?v=S3R-rP8dawM)
+
+    -   The Science of Everything
+
+-   [Why all world maps are wrong](https://www.youtube.com/watch?v=kIID5FDi2JQ)
+
+    -   Vox
