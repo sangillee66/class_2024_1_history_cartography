@@ -359,5 +359,46 @@
       "The Ancient World",
       "Çatalhöyük Map"
     ]
+  },
+  {
+    "objectID": "ancient/index.html",
+    "href": "ancient/index.html",
+    "title": "Section Intro",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "The Ancient World"
+    ]
+  },
+  {
+    "objectID": "ancient/catalhoyuk.html",
+    "href": "ancient/catalhoyuk.html",
+    "title": "Çatalhöyük Map",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "The Ancient World",
+      "Ancient",
+      "Çatalhöyük Map"
+    ]
+  },
+  {
+    "objectID": "ancient/sec_intro.html",
+    "href": "ancient/sec_intro.html",
+    "title": "Section Intro",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "The Ancient World",
+      "Ancient",
+      "Section Intro"
+    ]
+  },
+  {
+    "objectID": "docs/ancient/index.html",
+    "href": "docs/ancient/index.html",
+    "title": "Section Intro",
+    "section": "",
+    "text": "Back to top"
   }
 ]
