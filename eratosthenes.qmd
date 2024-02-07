@@ -67,9 +67,13 @@ suppress-bibliography: true
 
 -   Thomson, James Oliver. 1965. *History of Ancient Geography*. Biblo & Tannen Publishers.
 
+-   남태우. 2012. [지식의 보고 알렉산드리아 대 도서관](https://www.yes24.com/Product/Goods/7506835). 대구: 태일사.
+
 -   맬컴 스완스턴ㆍ알렉산더 스완스턴 지음(유나영 옮김). 2021. [지도의 역사: 지도로 그려진 최초의 발자취부터 인공지능까지](https://www.yes24.com/Product/Goods/104227876). 서울: 소소의책. (Swanston, Malcolm, and Alexander Swanston. 2019. [*How to Draw a Map*](https://www.amazon.com/How-to-Draw-a-Map/dp/0008275793/ref=sr_1_2?crid=215Q9RNBMV48J&dib=eyJ2IjoiMSJ9.DnuLacSDTLpZaYAPmIRSfz7vy-o7UERC3fTszoV0jhEEr8FXT1cDbT--r7xxnZmYB4jZ9jM5FXcvOnYk7dr27Vdwek5pU12DGGcykFuM2X_j6nAY4mw-MTRjhnWhUhlFmwwhI1_wYiFLxTOKjNPgDir8_GI4bKClkI3i1X1VB7zrj-noPbUOtGDMQ6feMKFvkoQ__K7T43W7D6vm6qU_rIVRdw96W-Gf0G09zFuMPk0.Lev427xXvPEXInx4RTCdzXCKrE_a4wiR7-ffvepb5xA&dib_tag=se&keywords=How+to+Draw+a+Map&qid=1705824019&s=books&sprefix=how+to+draw+a+map%2Cstripbooks-intl-ship%2C223&sr=1-2)*.* London: HarperCollinsPublishers.) 2. 시에네의 우물에 태양이 비칠때. 21-30.
 
 -   사이먼 가필드 지음(김명남 옮김). 2015. [지도 위의 인문학](https://www.yes24.com/Product/Goods/23544580): 지도 위에 그려진 인류 문명의 유쾌한 탐험, 파주: 다산북스. (Garfield, Simon. 2013. [*On the Map: A Mind-expanding Exploration of the Way the World Looks*](https://www.amazon.com/Map-Mind-Expanding-Exploration-Notable-Adults/dp/1592407803/ref=sr_1_1?crid=3BJW1GMAX4YZ5&dib=eyJ2IjoiMSJ9.lQGK5iKst9YJ8yMba6Ck0TRUHjQNFMzmbWXLYoV6jo4Jk4J7_nKqqf7F2C6id3nHQltlEDYPQ39oLfK4oLqViqP1LTrmA66wA6jVbBRQOuQGWWx0Oxc72aDNdtS3WoQYNFIXZ-uyCrWncYV83Q2QjQ.FdwJlG7VbG8FpX75S9mLb0ynmr8fBli71VRD27DKD9U&dib_tag=se&keywords=On+the+Map%3A+A+Mind-expanding&qid=1705823976&s=books&sprefix=on+the+map+a+mind-expanding%2Cstripbooks-intl-ship%2C227&sr=1-1), New York, N.Y.: Gotham Books.) 제1장 선구자들이 그린 정말 이상한 지도. 25-50.
+
+-   카를로 로벨리 지음(이희정 옮김). 2017. [첫번째 과학자, 아낙시만드로스: 과학적 사고의 탄생](https://www.yes24.com/Product/Goods/35439866). Seoul: 푸른지식. (Rovelli, Carlo. 2015. [*Anaximandre de Milet ou La naissance de la pensée scientifique*](https://www.google.co.kr/books/edition/_/-204jgEACAAJ?hl=ko&sa=X&ved=2ahUKEwjU4_jZqpiEAxVYr1YBHR-hDisQre8FegQIAxAg). Paris: Dunod.)
 
 ## Web Resources
 
