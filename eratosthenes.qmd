@@ -15,7 +15,7 @@ suppress-bibliography: true
 
 -   When: 194 BCE
 
-    -   The original have been lost.
+    -   The original has been lost.
 
     -   Reproduced by [Edward Bunbury](https://en.wikipedia.org/wiki/Edward_Bunbury) (1811-1895) (Bunbury, 1879)
 
