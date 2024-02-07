@@ -49,9 +49,9 @@ suppress-bibliography: true
 
 ## Web Resources
 
--   Composite Maps and Individual Sheets
+-   [Composite Maps and Individual Sheets](https://commons.wikimedia.org/wiki/Category:Waldseem%C3%BCller_map)
 
-    -   <https://commons.wikimedia.org/wiki/Category:Waldseem%C3%BCller_map>
+    -   Wikimedia
 
 ## Video Materials
 
