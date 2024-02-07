@@ -47,6 +47,12 @@ suppress-bibliography: true
 
 -   **제리 브로턴 지음(이창신 옮김)**. 2014. [욕망하는 지도: 12개의 지도로 읽는 세계사](https://www.yes24.com/Product/goods/12192777). 서울: 알에이치코리아. (Brotton, Jerry. 2012. [*A History of the World in 12 Maps*](https://www.amazon.com/History-World-12-Maps/dp/0143126024/ref=sr_1_1?crid=9UJLJ246IYSS&dib=eyJ2IjoiMSJ9.FY-MmIMOaa_OhpIKA0R7CHSpbeqP3wOtOFs1sSfDjxeQ8INh1JiJ-KQljiGWcA25hxz874-gObNXP3X5ux2xio52rPEJBPyZ7ZvLFDY0DDy8yLVU9scI67gu_NYK-0eK0EXvGAmeM6n4j8Vlbb5scmVYm88eBN25OVoCVQ_OnJwXaIQhrTFJBx88eP5I5jEQC0fdviI7qwn7JuLEicvdF9YVmfvRWbYyWu7okUNlW0A._mvJs7KogkSTGtuBdXenODFkqSV87AzIcwZwWisz9to&dib_tag=se&keywords=A+History+of+the+World+in+12+Maps&qid=1705823939&s=books&sprefix=a+history+of+the+world+in+12+maps%2Cstripbooks-intl-ship%2C217&sr=1-1)*.* New York: Viking.) 5 발견: 마르틴 발트제뮐러의 세계지도, 1507. 219-272.
 
+## Web Resources
+
+-   Composite Maps and Individual Sheets
+
+    -   <https://commons.wikimedia.org/wiki/Category:Waldseem%C3%BCller_map>
+
 ## Video Materials
 
 -   [How a 1507 German Map Became America’s Birth Certificate](https://www.youtube.com/watch?v=_OyCt1FXQWc)

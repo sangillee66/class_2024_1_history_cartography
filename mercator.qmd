@@ -15,7 +15,7 @@ suppress-bibliography: true
 
 -   When: 1569
 
--   Where: [Maritiem Museum](Maritime Museum), Rotterdam, The Netherlands
+-   Where: [Maritiem Museum](Maritime%20Museum), Rotterdam, The Netherlands
 
 -   Size: 1.24 x 2.02 M [@brotton2014b, 110]
 
