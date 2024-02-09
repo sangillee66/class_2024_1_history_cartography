@@ -58,3 +58,15 @@ suppress-bibliography: true
 -   [The 1569 Mercator Map](https://www.youtube.com/watch?v=1rtkPERjass)
 
     -   Richard Stewart
+
+-   [The Mercator Atlas of 1595](https://www.youtube.com/watch?v=YOBL-RvvtkM&list=PLxFAH273wZO4sz8cBmsMLNQnOiDa_oMA4&index=11)
+
+    -   Ziereis Facsimiles
+
+-   [The Mercator Atlas - Codex Berlin](https://www.youtube.com/watch?v=4mGt1KjQ06U&list=PLxFAH273wZO4sz8cBmsMLNQnOiDa_oMA4&index=20)
+
+    -   Ziereis Facsimiles
+
+-   [Gerardus Mercator - Atlas Sive Cosmographica](https://www.youtube.com/watch?v=aksooI4xXV8&list=PLxFAH273wZO4sz8cBmsMLNQnOiDa_oMA4&index=33)
+
+    -   Ziereis Facsimiles
