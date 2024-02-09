@@ -109,3 +109,23 @@ suppress-bibliography: true
 -   [The Ptolemy Atlas](https://www.youtube.com/watch?v=qjdmbIs9Ay0)
 
     -   Ziereis Facsimiles
+
+-   [The Ptolemy Cosmography](https://www.youtube.com/watch?v=ySotq81lkpA&list=PLxFAH273wZO4sz8cBmsMLNQnOiDa_oMA4&index=13)
+
+    -   Ziereis Facsimiles
+
+-   [The Cosmography of Claudius Ptolemy](https://www.youtube.com/watch?v=HsgRZwVgFik&list=PLxFAH273wZO4sz8cBmsMLNQnOiDa_oMA4&index=14)
+
+    -   Ziereis Facsimiles
+
+-   [The Opus Magnum of Claudius Ptolemy](https://www.youtube.com/watch?v=J-px1A2ACVE&list=PLxFAH273wZO4sz8cBmsMLNQnOiDa_oMA4&index=19)
+
+    -   Ziereis Facsimiles
+
+-   [Ptolemaei Tabulae Cosmographicae](https://www.youtube.com/watch?v=TVZHB5BfHbk&list=PLxFAH273wZO4sz8cBmsMLNQnOiDa_oMA4&index=42)
+
+    -   Ziereis Facsimiles
+
+-   [The Atlas of Borso D'este](https://www.youtube.com/watch?v=iICCpkEJUME)
+
+    -   Ziereis Facsimiles
