@@ -37,7 +37,7 @@ suppress-bibliography: true
 
 -   데이바 소벨, 윌리엄 앤드루스 지음(김진준 옮김). 2001. [경도: 해상시계 발명이야기](https://www.google.co.kr/books/edition/%EA%B2%BD%EB%8F%84_%ED%95%B4%EC%83%81%EC%8B%9C%EA%B3%84_%EB%B0%9C%EB%AA%85%EC%9D%B4%EC%95%BC%EA%B8%B0/QF21MAAACAAJ?hl=ko). 서울: 생각의 나무. (Sobel, Dava, and William J. H. Andrewes. 1995. [*Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time*](https://www.google.co.kr/books/edition/_/glCArgEACAAJ?hl=ko&sa=X&ved=2ahUKEwiY47iMqqCEAxUxma8BHUWmCfIQ7_IDegQIFBAD). Walker.)
 
--   이준우. 2013. “경도의 역사와 지리학에 대한 영향: 경도 측정 방법과 본초자오선의 통일을 중심으로.” *지리교육논집* 57: 1–10. <https://kiss.kstudy.com/Detail/Ar?key=3315972>.
+-   이준우. 2013. “경도의 역사와 지리학에 대한 영향: 경도 측정 방법과 본초자오선의 통일을 중심으로.” 지리교육논집 57: 1–10. <https://kiss.kstudy.com/Detail/Ar?key=3315972>.
 
 -   제러미 하우드 지음(이상일 옮김), 2014, [지구 끝까지: 세상을 바꾼 100장의 지도](https://www.yes24.com/Product/Goods/11772692), 서울: 푸른길. (Harwood, Jeremy, 2011, [*To the Ends of the Earth: 100 Maps that Changed the World*](https://www.amazon.com/Ends-Earth-Maps-Changed-World/dp/0785828982), New York, N.Y.: Chartwell Books.) #71 (p.130)
 
