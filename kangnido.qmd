@@ -52,9 +52,11 @@ suppress-bibliography: true
 
 -   Park, Hyunhee. 2012. [*Mapping the Chinese and Islamic Worlds: Cross-Cultural Exchange in Pre-Modern Asia*](https://www.amazon.com/Mapping-Chinese-Islamic-Worlds-Hyunhee/dp/1107547830/ref=sr_1_1?crid=2GRMF1028WWI8&keywords=Mapping+the+Chinese+and+Islamic+Worlds%3A+Cross-Cultural+Exchange+in+Pre-Modern+Asia&qid=1707203862&s=books&sprefix=mapping+the+chinese+and+islamic+worlds+cross-cultural+exchange+in+pre-modern+asia%2Cstripbooks-intl-ship%2C231&sr=1-1). Cambridge: Cambridge University Press. <https://doi.org/10.1017/CBO9781139088329>.
 
--   김선흥. 2022. [1402 강리도: 아프리카를 최초로 그린 세계 지도의 탄생](https://www.yes24.com/Product/Goods/115222234). 파주: 네잎클로바.
+-   김선흥. 2022. [1402 강리도: 아프리카를 최초로 그린 세계 지도의 탄생](https://www.google.co.kr/books/edition/1402_%EA%B0%95%EB%A6%AC%EB%8F%84/eUXezwEACAAJ?hl=ko). 파주: 네잎클로바.
 
--   미야 노리코 지음(김유영 옮김). 2010. [조선이 그린 세계지도: 몽골 제국의 유산과 동아시아](https://www.yes24.com/Product/Goods/4304717). 서울: 소와당.
+-   최창모. 2019. [옛 지도로 세계 읽기](https://www.google.co.kr/books/edition/%EC%98%9B_%EC%A7%80%EB%8F%84_%EB%A1%9C_%EC%84%B8%EA%B3%84_%EC%9D%BD%EA%B8%B0/zntyxQEACAAJ?hl=ko). 서울: 동연.
+
+-   미야 노리코 지음(김유영 옮김). 2010. [조선이 그린 세계지도: 몽골 제국의 유산과 동아시아](https://www.google.co.kr/books/edition/%EC%A1%B0%EC%84%A0_%EC%9D%B4_%EA%B7%B8%EB%A6%B0_%EC%84%B8%EA%B3%84_%EC%A7%80%EB%8F%84/xpftwQEACAAJ?hl=ko). 서울: 소와당.
 
 -   오상학. 2016. “[『혼일강리역대국도지도』의 최근 담론과 지도의 재평가](papers/오상학_2016.pdf).” 국토지리학회지 50 (1): 117–34. <https://kiss.kstudy.com/Detail/Ar?key=3425292>.
 
