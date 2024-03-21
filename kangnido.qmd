@@ -28,9 +28,13 @@ suppress-bibliography: true
 
 -   Where
 
-    -   Ryukoku copy: Ryukoku University
+    -   Ryukoku copy: Ryukoku University, Kyoko, Kyoto, 교토부 교토시 료코쿠대학(龍谷大學)
 
-    -   Honkoji copy: Honkoji Temple of Shimabara, Nagasaki
+    -   Honkoji copy: Honkoji Temple of Shimabara, Nagasaki, 나가사키현 시마바라시의 혼코지(本光寺)
+
+    -   Honmyoji copy: Honmyoji Temple of Kumamoto, Kumamoto, "Map of the Great Ming", 구마모토현 구마모토시 혼묘지(本妙寺) 대명국지도(大明國地圖)
+
+    -   Tenri copy: Tenri University of Nara, Nara, "Map of the Great Ming", 나라현 나라시 텐리대(天理大) 대명국도(大明國圖)
 
     -   모사본: [서울대학교 규장각 한국학연구원](https://geovr.com/vr/etc/kangnido/index.html)
 
