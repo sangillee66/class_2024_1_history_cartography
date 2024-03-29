@@ -36,17 +36,17 @@ suppress-bibliography: true
 
 -   **Aujac, Germaine**. 2016. “[The “Revolution” of Ptolemy](papers/aujac_2016.pdf).” In *Brill's Companion to Ancient Geography*, edited by Serena Bianchetti, Michele Cataudella, and Hans-Joachim Gehrke, 311–34. Leiden, The Netherlands: BRILL. <https://doi.org/10.1163/9789004284715_019>.
 
--   **Berg, Thomas Reinertsen**. 2018. *Theater of the World: The Maps That Made History*. New York: Little, Brown; Company. Like Frogs about a Pond. 29-61.
+-   **Berg, Thomas Reinertsen**. 2018. [*Theater of the World: The Maps That Made History*](https://www.google.co.kr/books/edition/Theater_of_the_World/qwVVDwAAQBAJ?hl=ko&gbpv=0). New York: Little, Brown; Company. Like Frogs about a Pond. 29-61.
 
 -   Brotton, Jerry. 2014. [*Great Maps: The World’s Masterpieces Explored and Explained*](https://www.amazon.com/Great-Maps-Masterpieces-Explained-Smithsonian/dp/1465424636/ref=sr_1_1?crid=MTLGQHLZ5SRU&keywords=Great+Maps%3A+The+World%E2%80%99s+Masterpieces+Explored+and+Explained&qid=1707203784&s=books&sprefix=great+maps+the+world+s+masterpieces+explored+and+explained%2Cstripbooks-intl-ship%2C231&sr=1-1). New York: Publishing. Ptolemy's World Map, 24-27.
 
--   Bunbury, E. H. 1959. *A History of Ancient Geography Among the Greeks and Romans from the Earliest Ages till the Fall of the Roman Empire*. Vol. 1. New York: Dover Publications.
+-   Bunbury, E. H. 1959. [*A History of Ancient Geography Among the Greeks and Romans from the Earliest Ages till the Fall of the Roman Empire*](https://www.google.co.kr/books/edition/A_History_of_Ancient_Geography_Among_the/XM8EAAAAMAAJ?hl=ko&gbpv=0). Vol. 1. New York: Dover Publications.
 
--   Bunbury, E. H. 1959. *A History of Ancient Geography Among the Greeks and Romans from the Earliest Ages till the Fall of the Roman Empire*. Vol. 2. New York: Dover Publications.
+-   Bunbury, E. H. 1959. [*A History of Ancient Geography Among the Greeks and Romans from the Earliest Ages till the Fall of the Roman Empire*](https://www.google.co.kr/books/edition/A_History_of_Ancient_Geography_Among_the/tvBuwPRGmc8C?hl=ko&gbpv=0). Vol. 2. New York: Dover Publications.
 
--   Dilke, Oswald Ashton Wentworth. 1985. *Greek and Roman Maps*. Ithaca, N.Y: Cornell University Press. V Ptolemy and Hist Predecessor Marinus. 72-86.
+-   Dilke, Oswald Ashton Wentworth. 1985. [*Greek and Roman Maps*](https://www.google.co.kr/books/edition/_/Kd_tAAAAMAAJ?hl=ko&sa=X&ved=2ahUKEwiu-cDGxJmFAxXRi68BHRvLBKoQ7_IDegQIFBAC). Ithaca, N.Y: Cornell University Press. V Ptolemy and Hist Predecessor Marinus. 72-86.
 
--   Jones, Alexander, ed. 2010. *Ptolemy in Perspective: Use and Criticism of His Work from Antiquity to the Nineteenth Century*. New York: Springer.
+-   Jones, Alexander, ed. 2010. [*Ptolemy in Perspective: Use and Criticism of His Work from Antiquity to the Nineteenth Century*](https://www.google.co.kr/books/edition/Ptolemy_in_Perspective/Y61qolT7m98C?hl=ko&gbpv=0). New York: Springer.
 
 -   **Jones, Alexander**. 2012. “[Ptolemy’s Geography: Mapmaking and the Scientific Enterprise](papers/jones_2012.pdf).” In *Ancient Perspectives: Maps and Their Place in Mesopotamia, Egypt, Greece, and Rome*, edited by Richard J. A. Talbert, 109–128. Chicago: The University of Chicago Press.
 
@@ -54,11 +54,13 @@ suppress-bibliography: true
 
 -   Ptolemy, Claudius. 1990. *Cosmography: Maps from Ptolemys "Geography"*. Wigston, Leicester: Magna Books.
 
--   **Ptolemy, Claudius**. (trans. by J. Lennart Berggren and Alexander Jones) 2000. *Ptolemy’s Geography: An Annotated Translation of the Theoretical Chapters*. Princeton, NJ: Princeton University Press.
+-   **Ptolemy, Claudius**. (trans. by J. Lennart Berggren and Alexander Jones) 2000. [*Ptolemy’s Geography: An Annotated Translation of the Theoretical Chapters*](https://www.google.co.kr/books/edition/Ptolemy_s_Geography/72zdDwAAQBAJ?hl=ko&gbpv=0). Princeton, NJ: Princeton University Press.
 
 -   Ptolemy, Claudius. (trans. by Edward Luther Stevenson and Joseph Fischer). 1991. *The Geography*. New York: Dover Publications.
 
--   Shalev, Zur, and Charles S. F. Burnett. 2011. *Ptolemy’s Geography in the Renaissance*. Warburg Institute.
+-   **Roller, Duane W.** 2023. [*The Geographical Guide of Ptolemy of Alexandria: An Analysis*](https://www.google.co.kr/books/edition/The_Geographical_Guide_of_Ptolemy_of_Ale/byDdEAAAQBAJ?hl=ko&gbpv=0). Taylor & Francis.
+
+-   Shalev, Zur, and Charles S. F. Burnett. 2011. [*Ptolemy’s Geography in the Renaissance*](https://www.google.co.kr/books/edition/Ptolemy_s_Geography_in_the_Renaissance/SXLvygAACAAJ?hl=ko). Warburg Institute.
 
 -   Shcheglov, Dmitry A. 2004. “[Ptolemy’s System of Seven Climata and Eratosthenes’ Geography.](papers/shcheglov_2004.pdf)” *Geographia Antiqua* 13: 21–37.
 
@@ -66,7 +68,7 @@ suppress-bibliography: true
 
 -   Shcheglov, Dmitry A. 2017. “[Eratosthenes’ Contribution to Ptolemy’s Map of the World](papers/shcheglov_2017.pdf).” *Imago Mundi* 69 (2): 159–75. <https://doi.org/10.1080/03085694.2017.1312112>.
 
--   Thomson, James Oliver. 1965. *History of Ancient Geography*. Biblo & Tannen Publishers.
+-   Thomson, James Oliver. 1965. [*History of Ancient Geography*](https://www.google.co.kr/books/edition/History_of_Ancient_Geography/rQipbjusDyQC?hl=ko&gbpv=0). Biblo & Tannen Publishers.
 
 -   Tupikova, Irina. 2014. “[Ptolemy’s Circumference of the Earth](papers/tupikova_2014.pdf).” TOPOI – Towards a Historical Epistemology of Space.
 

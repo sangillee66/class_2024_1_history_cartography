@@ -29,21 +29,27 @@ suppress-bibliography: true
 
 -   Agbebaku, Henry Usiobaifo. 2019. “[Comparative Analysis of the Contributions of Strabo and Eratosthenes to the Development of Geography](papers/agbebaku_2019.pdf).” *Zaria Geographer* 26 (1): 70–82.
 
--   **Berg, Thomas Reinertsen**. 2018. *Theater of the World: The Maps That Made History*. New York: Little, Brown; Company. Like Frogs about a Pond. 29-61.
+-   **Berg, Thomas Reinertsen**. 2018. [*Theater of the World: The Maps That Made History*](https://www.google.co.kr/books/edition/Theater_of_the_World/qwVVDwAAQBAJ?hl=ko&gbpv=0). New York: Little, Brown; Company. Like Frogs about a Pond. 29-61.
 
 -   **Bianchetti, Serena.** 2016. “[The “Invention” of Geography: Eratosthenes of Cyrene.](papers/bianchetti_2016.pdf)” In *Brill's Companion to Ancient Geography*, edited by Hans-Joachim Gehrke, Michele Cataudella, and Serena Bianchetti, 132–49. Leiden, The Netherlands: BRILL. <https://doi.org/10.1163/9789004284715_009>.
 
--   Bunbury, E. H. 1959. *A History of Ancient Geography Among the Greeks and Romans from the Earliest Ages till the Fall of the Roman Empire*. Vol. 1. New York: Dover Publications.
+-   Bunbury, E. H. 1959. [*A History of Ancient Geography Among the Greeks and Romans from the Earliest Ages till the Fall of the Roman Empire*](https://www.google.co.kr/books/edition/A_History_of_Ancient_Geography_Among_the/XM8EAAAAMAAJ?hl=ko&gbpv=0). Vol. 1. New York: Dover Publications.
 
--   Bunbury, E. H. 1959. *A History of Ancient Geography Among the Greeks and Romans from the Earliest Ages till the Fall of the Roman Empire*. Vol. 2. New York: Dover Publications.
+-   Bunbury, E. H. 1959. [*A History of Ancient Geography Among the Greeks and Romans from the Earliest Ages till the Fall of the Roman Empire*](https://www.google.co.kr/books/edition/A_History_of_Ancient_Geography_Among_the/tvBuwPRGmc8C?hl=ko&gbpv=0). Vol. 2. New York: Dover Publications.
 
 -   Connors, Catherine. 2011. “[Eratosthenes, Strabo, and the Geographer’s Gaze](papers/connors_2011.pdf).” *Pacific Coast Philology* 46 (2): 139–52. <https://doi.org/10.2307/41851022>.
 
--   Dilke, Oswald Ashton Wentworth. 1985. *Greek and Roman Maps*. Ithaca, N.Y: Cornell University Press. II Evidence from Ancient Greece. 21-38.
+-   Dicks, D. R., and **Hipparchus**. 1960. [*The Geographical Fragments of Hipparchus*](https://www.google.co.kr/books/edition/The_Geographical_Fragments_of_Hipparchus/EjN_AAAAMAAJ?hl=ko&gbpv=0&bsq=The%20Geographical%20Fragments%20of%20Hipparchus). London: The Athlone Press, University of London.
+
+-   Dilke, Oswald Ashton Wentworth. 1985. [*Greek and Roman Maps*](https://www.google.co.kr/books/edition/_/Kd_tAAAAMAAJ?hl=ko&sa=X&ved=2ahUKEwiv897Ww5mFAxXzYfUHHZUTCJUQ7_IDegQIGRAC). Ithaca, N.Y: Cornell University Press. II Evidence from Ancient Greece. 21-38.
+
+-   Geminus. 2006. [*Geminos’s Introduction to the Phenomena: A Translation and Study of a Hellenistic Survey of Astronomy*](https://www.google.co.kr/books/edition/Geminos_s_Introduction_to_the_Phenomena/if9ZDwAAQBAJ?hl=ko&gbpv=0). Princeton, N.J: Princeton University Press.
 
 -   **Irby, Georgia L.** 2012. “[Mapping the World: Greek Initiatives from Homer to Eratosthenes](papers/irby_2012.pdf).” *Ancient Perspectives: Maps and Their Place in Mesopotamia, Egypt, Greece, and Rome* 16: 81–107. 
 
 -   Marx, Christian. 2015. “[An Analysis of the Latitudinal Data of Eratosthenes and Hipparchus](papers/mark_2015.pdf).” *Mathematics and Mechanics of Complex Systems* 3 (4): 309–39. <https://doi.org/10.2140/memocs.2015.3.309>.
+
+-   **Matthew, Christopher A.** 2023. [*Eratosthenes and the Measurement of the Earth’s Circumference*](https://www.google.co.kr/books/edition/Eratosthenes_and_the_Measurement_of_the/JUDAEAAAQBAJ?hl=ko&gbpv=0) *(C. 230 BC)*. Oxford: Oxford University Press.
 
 -   McPhail, Cameron. 2011. “[Reconstructing Eratosthenes’ Map of the World: A Study in Source Analysis](papers/mcphail_2011).” PhD thesis, Dunedin, New Zealand.
 
@@ -51,9 +57,15 @@ suppress-bibliography: true
 
 -   Oh, Jun-Young. 2017. “[Understanding the Estimation of Circumference of the Earth by of Eratosthenes Based on the History of Science, For Earth Science Education](papers/oh_2017.pdf).” *Journal of the Korean Society of Earth Science Education* 10 (2): 214–25. <https://doi.org/10.15523/JKSESE.2017.10.2.214>.
 
--   **Roller, Duane W.** 2012. ed. *Eratosthenes’ Geography*. Princeton, N.J: Princeton University Press.
+-   **Roller, Duane W.** 2012. ed. [*Eratosthenes’ Geography*](https://www.google.co.kr/books/edition/Eratosthenes_Geography/8peKyWK_SWsC?hl=ko&gbpv=0). Princeton, N.J: Princeton University Press.
 
--   **Roller, Duane W.** 2015. *Ancient Geography: The Discovery of the World in Classical Greece and Rome*. Bloomsbury Publishing. Chapter 6: Eratosthenes and The Invention of the Discipline of Geography, 121-135.
+-   **Roller, Duane W.** 2015. [*Ancient Geography: The Discovery of the World in Classical Greece and Rome*](https://www.google.co.kr/books/edition/Ancient_Geography/W9SLDwAAQBAJ?hl=ko&gbpv=0). Bloomsbury Publishing. Chapter 6: Eratosthenes and The Invention of the Discipline of Geography, 121-135.
+
+-   Roller, Duane W. 2018. [*A Historical and Topographical Guide to the Geography of Strabo*](https://www.google.co.kr/books/edition/A_Historical_and_Topographical_Guide_to/cFZoDwAAQBAJ?hl=ko). Cambridge University Press.
+
+-   Roller, Duane W. 2014. [*The Geography of Strabo: An English Translation, with Introduction and Notes*](The Geography of Strabo: An English Translation, with Introduction and Notes). Cambridge University Press.
+
+-   Roller, Duane W. 2022. [*A Guide to the Geography of Pliny the Elder*](https://www.google.co.kr/books/edition/A_Guide_to_the_Geography_of_Pliny_the_El/bHZ6EAAAQBAJ?hl=ko&gbpv=0). Cambridge University Press.
 
 -   Russo, Lucio. 2013. “[Ptolemy’s Longitudes and Eratosthenes’ Measurement of the Earth’s Circumference](papers/russo_2013.pdf).” *Mathematics and Mechanics of Complex Systems* 1 (1): 67–79. <https://doi.org/10.2140/memocs.2013.1.67>.
 
@@ -65,9 +77,9 @@ suppress-bibliography: true
 
 -   **Shcheglov, Dmitry A.** 2017. “[Eratosthenes’ Contribution to Ptolemy’s Map of the World](papers/shcheglov_2017.pdf).” *Imago Mundi* 69 (2): 159–75. <https://doi.org/10.1080/03085694.2017.1312112>.
 
--   Thomson, James Oliver. 1965. *History of Ancient Geography*. Biblo & Tannen Publishers.
+-   Thomson, James Oliver. 1965. [*History of Ancient Geography*](https://www.google.co.kr/books/edition/History_of_Ancient_Geography/rQipbjusDyQC?hl=ko&gbpv=0). Biblo & Tannen Publishers.
 
--   남태우. 2012. [지식의 보고 알렉산드리아 대 도서관](https://www.yes24.com/Product/Goods/7506835). 대구: 태일사.
+-   남태우. 2015. [지식의 보고 알렉산드리아 대 도서관](https://www.yes24.com/Product/Goods/7506835). 서울: 한국도서관협회.
 
 -   맬컴 스완스턴ㆍ알렉산더 스완스턴 지음(유나영 옮김). 2021. [지도의 역사: 지도로 그려진 최초의 발자취부터 인공지능까지](https://www.yes24.com/Product/Goods/104227876). 서울: 소소의책. (Swanston, Malcolm, and Alexander Swanston. 2019. [*How to Draw a Map*](https://www.amazon.com/How-to-Draw-a-Map/dp/0008275793/ref=sr_1_2?crid=215Q9RNBMV48J&dib=eyJ2IjoiMSJ9.DnuLacSDTLpZaYAPmIRSfz7vy-o7UERC3fTszoV0jhEEr8FXT1cDbT--r7xxnZmYB4jZ9jM5FXcvOnYk7dr27Vdwek5pU12DGGcykFuM2X_j6nAY4mw-MTRjhnWhUhlFmwwhI1_wYiFLxTOKjNPgDir8_GI4bKClkI3i1X1VB7zrj-noPbUOtGDMQ6feMKFvkoQ__K7T43W7D6vm6qU_rIVRdw96W-Gf0G09zFuMPk0.Lev427xXvPEXInx4RTCdzXCKrE_a4wiR7-ffvepb5xA&dib_tag=se&keywords=How+to+Draw+a+Map&qid=1705824019&s=books&sprefix=how+to+draw+a+map%2Cstripbooks-intl-ship%2C223&sr=1-2)*.* London: HarperCollinsPublishers.) 2. 시에네의 우물에 태양이 비칠때. 21-30.
 
