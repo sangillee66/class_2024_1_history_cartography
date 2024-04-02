@@ -63,7 +63,7 @@ suppress-bibliography: true
 
 -   Roller, Duane W. 2018. [*A Historical and Topographical Guide to the Geography of Strabo*](https://www.google.co.kr/books/edition/A_Historical_and_Topographical_Guide_to/cFZoDwAAQBAJ?hl=ko). Cambridge University Press.
 
--   Roller, Duane W. 2014. [*The Geography of Strabo: An English Translation, with Introduction and Notes*](The Geography of Strabo: An English Translation, with Introduction and Notes). Cambridge University Press.
+-   Roller, Duane W. 2014. [*The Geography of Strabo: An English Translation, with Introduction and Notes*](The%20Geography%20of%20Strabo:%20An%20English%20Translation,%20with%20Introduction%20and%20Notes). Cambridge University Press.
 
 -   Roller, Duane W. 2022. [*A Guide to the Geography of Pliny the Elder*](https://www.google.co.kr/books/edition/A_Guide_to_the_Geography_of_Pliny_the_El/bHZ6EAAAQBAJ?hl=ko&gbpv=0). Cambridge University Press.
 

@@ -65,6 +65,10 @@ suppress-bibliography: true
 
     -   Modern History TV
 
+-   [This Medieval Map Leads to Happiness \| Dr Karel Fraaije Explores the Hereford Mappa Mundi](https://www.youtube.com/watch?v=ioZ2XcGvIrQ&t=517s)
+
+    -   Elegast Media
+
 -   [The Hereford World Map: Mappa Mundi \| A limited edition from The Folio Society](https://www.youtube.com/watch?v=uO-IJUP_UBQ)
 
     -   The Folio Society
