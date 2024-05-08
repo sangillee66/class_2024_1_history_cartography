@@ -41,12 +41,11 @@ suppress-bibliography: true
 -   Size
 
     -   Ryukoku copy: 158 x 163 cm
-
     -   Honkoji copy: 220 x 280 cm
 
-![https://post.naver.com/viewer/postView.naver?volumeNo=26871382&memberNo=23889166](https://post-phinf.pstatic.net/MjAxOTExMTRfMTg1/MDAxNTczNzE5NDM4NTk5.aBS1G_5ppfT6WE82-fpTx5_nTdrOdlvgDHm_ublxw9Ug.VtIPFLD_zt2WBaqJU04WCPpHqVG5s-NqwcgZvXNGlnAg.JPEG/%ED%98%BC%EC%9D%BC%EA%B0%95%EB%A6%AC%EC%97%AD%EB%8C%80%EA%B5%AD%EB%8F%84%EC%A7%80%EB%8F%84.jpg?type=w1200)
+![<https://post.naver.com/viewer/postView.naver?volumeNo=26871382&memberNo=23889166>](images/clipboard-2176631860.jpeg)
 
-![https://en.wikipedia.org/wiki/Gangnido#/media/File:GeneralMapOfDistancesAndHistoricCapitals.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/GeneralMapOfDistancesAndHistoricCapitals.jpg/2542px-GeneralMapOfDistancesAndHistoricCapitals.jpg)
+![<https://en.wikipedia.org/wiki/Gangnido#/media/File:GeneralMapOfDistancesAndHistoricCapitals.jpg>](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/GeneralMapOfDistancesAndHistoricCapitals.jpg/2542px-GeneralMapOfDistancesAndHistoricCapitals.jpg)
 
 ## References
 
