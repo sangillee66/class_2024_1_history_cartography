@@ -51,6 +51,8 @@ suppress-bibliography: true
 
 -   Brotton, Jerry. 2014. [*Great Maps: The World’s Masterpieces Explored and Explained*](https://www.amazon.com/Great-Maps-Masterpieces-Explained-Smithsonian/dp/1465424636/ref=sr_1_1?crid=MTLGQHLZ5SRU&keywords=Great+Maps%3A+The+World%E2%80%99s+Masterpieces+Explored+and+Explained&qid=1707203784&s=books&sprefix=great+maps+the+world+s+masterpieces+explored+and+explained%2Cstripbooks-intl-ship%2C231&sr=1-1). New York: Publishing. Hereford Mappa Mundi. 66-67.
 
+-   Kenzheakhmet, N., 2016, [The place names of Euro-Africa in the Kangnido](papers/kenzheakhmet_2016.pdf), *The Silk Road*, 14, 106-125.
+
 -   **MyOldMaps**, [#236 Kangnido](https://www.myoldmaps.com/late-medieval-maps-1300/untitled.html).
 
 -   Park, Hyunhee. 2012. [*Mapping the Chinese and Islamic Worlds: Cross-Cultural Exchange in Pre-Modern Asia*](https://www.amazon.com/Mapping-Chinese-Islamic-Worlds-Hyunhee/dp/1107547830/ref=sr_1_1?crid=2GRMF1028WWI8&keywords=Mapping+the+Chinese+and+Islamic+Worlds%3A+Cross-Cultural+Exchange+in+Pre-Modern+Asia&qid=1707203862&s=books&sprefix=mapping+the+chinese+and+islamic+worlds+cross-cultural+exchange+in+pre-modern+asia%2Cstripbooks-intl-ship%2C231&sr=1-1). Cambridge: Cambridge University Press. <https://doi.org/10.1017/CBO9781139088329>.
